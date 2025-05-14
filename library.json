@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pricing-sections-1",
+    "image": "pricing-sections/1.jpg",
+    "prompt": "Create a pricing section for a page that contains two pricing options one it potentially is for a single course, and the other is for the membership. The section has the notable features:\n\n* Two soft gradient CSS blobs as the background of the section. One blob is in the lower left corner using the primary coilor. The second in upper right corner using the secondary color.\n* The second card has a multi color border that uses both the primary and secondary color\n* The background of the second card has a lighter version of the primary color so that it stands out",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-2",
+    "image": "pricing-sections/2.jpg",
+    "prompt": "Create multi-column pricing othat will describe the purchase options for my membership program. The section has the notable features:\n\n* Popular plan clearly visible by a badge\n* Muted text for features that are not included in the plabe\n* Trust indicators and social proof in the upper right corner",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-3",
+    "image": "pricing-sections/3.jpg",
+    "prompt": "Create this pricing section for my course landing page it includes a course summary on the right hand side, and then the module listings on the left-hand side.Be sure to include these notable features.\n\n* Use placeholder content for the modules\n* Name and description of the course in the right side also includes an avatar stack of student images\n* Summary list of what is included",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-4",
+    "image": "pricing-sections/4.jpg",
+    "prompt": "Create a two-column pricing section like the attached image. Be sure to include these notable features:\n\n* Card border that does not go fully around the card. An image is placed in the center of the border on the top, and a button is places on the center portion of the border on the bottom. The border lines end in a circle. You should be able to use CSS for the border and circles.\n* The popular plan has a different color border and also a subtle CSS gradient blob in the background.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-5",
+    "image": "pricing-sections/5.jpg",
+    "prompt": "Create a pricing section that looks like the attached. Be sure to include a way to highlight the popular plan like iyt is shown.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  }
+]
