@@ -1,5 +1,320 @@
 [
   {
+    "id": "cta-01_awz",
+    "image": "cta/01_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-02_awz",
+    "image": "cta/02_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-03_awz",
+    "image": "cta/03_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-04_awz",
+    "image": "cta/04_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-05_awz",
+    "image": "cta/05_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-06_awz",
+    "image": "cta/06_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-07_awz",
+    "image": "cta/07_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-08_awz",
+    "image": "cta/08_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "cta-09_awz",
+    "image": "cta/09_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-01_awz",
+    "image": "features/01_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-02_awz",
+    "image": "features/02_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-03_awz",
+    "image": "features/03_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-04_awz",
+    "image": "features/04_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-05_awz",
+    "image": "features/05_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-07_awz",
+    "image": "features/07_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-08_awz",
+    "image": "features/08_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-10_awz",
+    "image": "features/10_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "features-12_awz",
+    "image": "features/12_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "hero-sections-000001",
+    "image": "hero-sections/000001.jpg",
+    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "categories": [
+      "Hero Section"
+    ],
+    "video": ""
+  },
+  {
+    "id": "hero-sections-000002",
+    "image": "hero-sections/000002.jpg",
+    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "categories": [
+      "Hero Section"
+    ],
+    "video": ""
+  },
+  {
+    "id": "hero-sections-000003",
+    "image": "hero-sections/000003.jpg",
+    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "categories": [
+      "Hero Section"
+    ],
+    "video": ""
+  },
+  {
+    "id": "hero-sections-000004",
+    "image": "hero-sections/000004.jpg",
+    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "categories": [
+      "Hero Section"
+    ],
+    "video": ""
+  },
+  {
+    "id": "hero-sections-000005",
+    "image": "hero-sections/000005.jpg",
+    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "categories": [
+      "Hero Section"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-01_awz-(1)",
+    "image": "how-it-works/01_awz (1).jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-03_awz-(1)",
+    "image": "how-it-works/03_awz (1).jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-04_awz-(1)",
+    "image": "how-it-works/04_awz (1).jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-05_awz-(1)",
+    "image": "how-it-works/05_awz (1).jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-06_awz",
+    "image": "how-it-works/06_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "how-it-works-07_awz-(1)",
+    "image": "how-it-works/07_awz (1).jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-01_awz",
+    "image": "pricing-sections/01_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-02_awz",
+    "image": "pricing-sections/02_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-03_awz",
+    "image": "pricing-sections/03_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-04_awz",
+    "image": "pricing-sections/04_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-05_awz",
+    "image": "pricing-sections/05_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "pricing-sections-06_awz",
+    "image": "pricing-sections/06_awz.jpg",
+    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
     "id": "pricing-sections-1",
     "image": "pricing-sections/1.jpg",
     "prompt": "Create a pricing section for a page that contains two pricing options one it potentially is for a single course, and the other is for the membership. The section has the notable features:\n\n* Two soft gradient CSS blobs as the background of the section. One blob is in the lower left corner using the primary coilor. The second in upper right corner using the secondary color.\n* The second card has a multi color border that uses both the primary and secondary color\n* The background of the second card has a lighter version of the primary color so that it stands out",
