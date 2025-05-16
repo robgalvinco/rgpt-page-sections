@@ -2,7 +2,7 @@
   {
     "id": "cta-01_awz",
     "image": "cta/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a centered, heading, as well as a subheading, followed by a button below. The button is a overlapped stack of avatar images. That also has some text next to it. This is to essentially help with some social proof below the call to action button.",
     "categories": [
       "Call To Action"
     ],
@@ -11,7 +11,7 @@
   {
     "id": "cta-02_awz",
     "image": "cta/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section essentially contains two columns. The first column contains a heading and a paragraph the second column is positioned all the way to the right of the section and it has two buttons that are stacked on top of each other. The section itself has a few elements first, there's a background color, but we also want to place a subtle blurry, Grady and blob in the lower right hand corner so that the section doesn't feel so flat",
     "categories": [
       "Call To Action"
     ],
@@ -20,7 +20,7 @@
   {
     "id": "cta-03_awz",
     "image": "cta/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. It has a pre-heading, as well as a centered large heading, followed by a call to action button. The background is image that is blurred using CSS and has a semi-transparent overlay on top of the image so that the text stands out. This call to action would typically be used as a closer CTA at the bottom of a landing page.",
     "categories": [
       "Call To Action"
     ],
@@ -29,7 +29,7 @@
   {
     "id": "cta-04_awz",
     "image": "cta/04_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. It contains text that is on the left-hand side as well as buttons. This section will contain a background image, and we want the background image to have a gradient overlay that is mostly solid on the left-hand side, but then goes to transparent on the right hand side, so that the text will stand out, as well as the buttons.",
     "categories": [
       "Call To Action"
     ],
@@ -38,7 +38,7 @@
   {
     "id": "cta-05_awz",
     "image": "cta/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section contains an image on the left-hand side on the right hand side there is a heading followed by a list of text each item contains an icon next to the text instead of using an input for email. Let's just go with a call to action button below the button we want to have some sub text as well.",
     "categories": [
       "Call To Action"
     ],
@@ -47,7 +47,7 @@
   {
     "id": "cta-06_awz",
     "image": "cta/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. There is centered, heading, followed by a button below the button there is a \"to the left of the text. We have an image that is rotated, using CSS on top of the left image, there is a play button icon, but we don't want to play any video here. We just want the image on the right hand side there's another image which is also rotated in the opposite direction for the section background. We want to use a soft blurry blob, which is very subtle, but makes the section not feel so flat.",
     "categories": [
       "Call To Action"
     ],
@@ -56,7 +56,7 @@
   {
     "id": "cta-07_awz",
     "image": "cta/07_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this section, there are essentially three columns. The first column contains a heading and a subheading. The second column contains cards. Each card has an icon a heading a short paragraph and then at the bottom of the card there is a call to action link that also has an icon as well, be sure to make the entire card clickable and not just the link on the card.",
     "categories": [
       "Call To Action"
     ],
@@ -65,7 +65,7 @@
   {
     "id": "cta-08_awz",
     "image": "cta/08_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a large, heading that spans across the entire container below the heading there is a thin line that separates it from the next row. The next row contains three columns. Each column contains a heading a paragraph and a link the link contains an icon.",
     "categories": [
       "Call To Action"
     ],
@@ -74,7 +74,7 @@
   {
     "id": "cta-09_awz",
     "image": "cta/09_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a large, heading that is centered on the page, followed by a button below the button is a social proof section that contains a set of logos. The logo section has a heading, and the logos should appear in three columns. Sometimes the logo images may be different sizes, but let's make sure they all lineup nicely no matter if the logo image is rectangular or square.",
     "categories": [
       "Call To Action"
     ],
@@ -83,7 +83,7 @@
   {
     "id": "features-01_awz",
     "image": "features/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In a section, we have simply two columns on the left-hand column. There is a heading, followed by a paragraph on the right side. There is an image. The section also contains a very subtle gradient blob in the upper left-hand corner, which doesn't make the section look flat. We can also apply some sort of subtle shadowy shape behind the image as well.",
     "categories": [
       "Features"
     ],
@@ -92,7 +92,7 @@
   {
     "id": "features-02_awz",
     "image": "features/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section is to quickly communicate benefits of a course or a membership at in a ataglance sort of way there are three columns. Each column will contain an image and some text. We wanna make sure that they all line up even if the text is different lanes the text should be centered in the image.",
     "categories": [
       "Features"
     ],
@@ -101,7 +101,7 @@
   {
     "id": "features-03_awz",
     "image": "features/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section would typically be used to talk about features, and either a course or a membership and contains a few different components. There are three columns in this section. The first column contains a heading and a paragraph the second column in the section contains an image on top of the image. We want to have a blurred effect where there is text on top of this blurred overlay the text has a heading and some subheading the third column ha, two elements or two rows, each row has a heading and a subheading, and the rows are split by a thin line.",
     "categories": [
       "Features"
     ],
@@ -110,7 +110,7 @@
   {
     "id": "features-04_awz",
     "image": "features/04_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section is going to talk about a key feature or benefit of a course or a membership. We want to have two columns, essentially on the left-hand side. There is a heading a paragraph a button below the button there is a small image with some text next to the image. The second column on the right contains a single image that almost looks like two images but for now, let's just make it one image.",
     "categories": [
       "Features"
     ],
@@ -119,7 +119,7 @@
   {
     "id": "features-05_awz",
     "image": "features/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section is typically used to talk about features inside of a membership or a course contains a heading in the first row in the second row we have two columns. The first column contains an image the image and that column contains a text that looks like a button that should be created via CSS, which is overlaid on top of the image. It's intended to open a pop-up vide, in the second column of the section it's essentially split into two rows. The first row has a paragraph or two, and then there is a thin line that separates the next row, which contains two columns in each of those columns. There's a heading that is colored and then there is a subheading below it.",
     "categories": [
       "Features"
     ],
@@ -128,7 +128,7 @@
   {
     "id": "features-07_awz",
     "image": "features/07_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section can typically represent benefits of a course, and we have a few different components in this section. The first row of the section is split into two columns, where we have a large heading in the first column and then in the second column, we have a paragraph in the next row of the section we have three image cards, the images should all be the same size and fill that space so all the cards lineup no matter what image is provided we should make sure the image gets filled on top of the card at the bottom. We have some text that is overlaid on top of the image the text has a background behind it, which is semi transparent so that this way the text will stand out on top of the image the image cards also have rounded corners as well.",
     "categories": [
       "Features"
     ],
@@ -137,7 +137,7 @@
   {
     "id": "features-08_awz",
     "image": "features/08_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. This section will typically talk about features or benefits of a membership or course program. It contains two columns on the left-hand side they'll be an image and on top of the image towards the right we want to have a quote box. This quote box will not cover the full image. It will only cover a very small portion of the image and will also be semi-transparent, so that this way we can see the image behind it on the right hand side of the section we have three rows in that column each row contains an icon to the right of the icon. They will be heading and the paragraph each row essentially also has some padding and a thin line separating it from the next row.",
     "categories": [
       "Features"
     ],
@@ -146,7 +146,7 @@
   {
     "id": "features-10_awz",
     "image": "features/10_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. The section is typically used to showcase key features of a course or a membership site. It starts with a centered, heading below the heading or three columns inside of each column is a card. Each card contains a subheading that is centered as well as an image that's placed at the bottom of the card. The card has rounded corners and also a subtle background color, which makes it feel like it's a card.",
     "categories": [
       "Features"
     ],
@@ -155,7 +155,7 @@
   {
     "id": "features-12_awz",
     "image": "features/12_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this section, we have two columns, essentially in the first column on the left there is a card style look where we would have a subtle background color and rounded corners inside the card. We're going to have a heading, and a subheading, followed by one image that would kind of represent the three images at the bottom of the card on the right hand side of this section we have some text and content it starts off with a small preheating, followed by a h, and then we have two columns that will have an icon heading and subheading in each of the columns after the two columns we will have a button",
     "categories": [
       "Features"
     ],
@@ -164,7 +164,7 @@
   {
     "id": "hero-sections-000001",
     "image": "hero-sections/000001.jpg",
-    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a hero section that we typically find on a course landing page. There are two columns on the left-hand side. There is some text it starts off with the pre-heading pill, which is small text that is that has a background color. It's also has rounded corners in an icon that is the main heading in large tax followed by subheading. There are two buttons. One is a primary button one is a secondary button below the button are some trust factors there's a heading and then an area for some logos we want to make sure that the logos are resized so that they fit in the space to the right hand side we have an image we would like to place a subtle radiant CSS blob behind the image to give the section some depth to it.",
     "categories": [
       "Hero Section"
     ],
@@ -173,7 +173,7 @@
   {
     "id": "hero-sections-000002",
     "image": "hero-sections/000002.jpg",
-    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a section that we would typically use for a hero banner on a course membership site the section has an image on the left-hand side behind the image is a colored background, but it doesn't completely take the full width of that column. It just shows partially behind the image on the right hand side of the right column. We have a large, heading, followed by a subheading, instead of an email input we want to just have a primary and secondary button below the button we will have some social proof in the form of rating stars as well as some rating information and then a logo of the rating provider that will be in the form of an image.",
     "categories": [
       "Hero Section"
     ],
@@ -182,7 +182,7 @@
   {
     "id": "hero-sections-000003",
     "image": "hero-sections/000003.jpg",
-    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a large centered hero banner that has a pre-heading text as well as a large, heading filed by a button below the button there is another call to action which looks more like text. It has an icon before the text below, that you'll see a large image that kind of represents a webinar screen. The section itself has a subtle gradient blob in the upper left-hand corner. We wanna make sure that is handled via CSS. There's also another subtle gradient blob of a different color in the lower right hand corner.",
     "categories": [
       "Hero Section"
     ],
@@ -191,7 +191,7 @@
   {
     "id": "hero-sections-000004",
     "image": "hero-sections/000004.jpg",
-    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a hero section will be used on a course or membership site on the left-hand side. We want to have a pre-heading that. Has this rounded sort of pill look. It also has an icon next to it as well. The pill has the subtle background color then we have the main heading, which is a large font, followed by a short paragraph, that's also followed by a called action button below. The button is some social proof which contains a heading some rating stars and some rating information on the right hand side. We have several images that should be placed just like it is in the screen where they're kind of stacked and shown in . You can ignore the video play button for now.",
     "categories": [
       "Hero Section"
     ],
@@ -200,7 +200,7 @@
   {
     "id": "hero-sections-000005",
     "image": "hero-sections/000005.jpg",
-    "prompt": "A clean, effective section for a landing page. Designed to be visually appealing and conversion-focused.",
+    "prompt": "Create this section as close as to the design as you can replicate it. There are two portions to the section we have the main tax area and then we also have some logos below it in the main area. We want to have the container have rounded corners and the container have a background image. We don't want the section to have a background image we just want the container to have a background image inside the that particular section will have a subheading a button. They'll also be some subtext below the button below. The main text section will have a logo bar. The logo bar will contain a variety of logo images and it'll also have a heading for that particular section the logos may be different sizes and shapes. Let's make sure they all lineup properly.",
     "categories": [
       "Hero Section"
     ],
@@ -209,7 +209,7 @@
   {
     "id": "how-it-works-01_awz-(1)",
     "image": "how-it-works/01_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this house, it works section. We have a heading in the first row in the second row we have a numbered line. Each number is in a circle. The circle has a border and a color behind it connecting the columns is a thin line that centered in the circle each item has a heading below it. Essentially this is to help with people seeing how easy it is to maybe join a program or to purchase a course",
     "categories": [
       "How It Works"
     ],
@@ -218,7 +218,7 @@
   {
     "id": "how-it-works-03_awz-(1)",
     "image": "how-it-works/03_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In the section we want to communicate how things work when joining a course or the three key benefits of a course and it contains a few different elements on the left-hand side in the first column there's a large, heading in a paragraph, then on the right hand side in the second column we have looks like a timeline that connects three elements each element has an icon that positioned in a circle. The item also has a heading and a paragraph and there's a line connecting the icons between each of the items.",
     "categories": [
       "How It Works"
     ],
@@ -227,7 +227,7 @@
   {
     "id": "how-it-works-04_awz-(1)",
     "image": "how-it-works/04_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this, how does it work section? We have a centered, heading, and subheading below, that we have a container that has rounded corners. The container contains a background image that should fill the entire space of the container, no matter what the size of the image that is provided the image has a gradient overlay on top of the image starting from the left to the right, so that this way the text is readable in the text column, we have rose that represents steps. Each row has a checkmark icon in a circle. The circle has a background color and a slight border. The staff also has a pre-heading and a subheading the steps are connected with a dotted or dash line so it looks like a timeline.",
     "categories": [
       "How It Works"
     ],
@@ -236,7 +236,7 @@
   {
     "id": "how-it-works-05_awz-(1)",
     "image": "how-it-works/05_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this, how it works section, we have a centered, large, heading, followed by a subheading below that is a row that contains three columns. Each column has a centered icon in a circle, followed by a heading, and they subheading connecting. The items is an image that looks like a dotted line.",
     "categories": [
       "How It Works"
     ],
@@ -245,7 +245,7 @@
   {
     "id": "how-it-works-06_awz",
     "image": "how-it-works/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this, how it works section we have two columns. The first column has a heading, followed by a numbered list of items. Each item has a number that is going to be inside of a circle. The circle has a thin border. The item also has a head and a subheading in that same column. We also have a button to the right in the second column. We have an image that has rounded corners.",
     "categories": [
       "How It Works"
     ],
@@ -254,7 +254,7 @@
   {
     "id": "how-it-works-07_awz-(1)",
     "image": "how-it-works/07_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this house, does it work section we have a pre-heading that is simply colored text, followed by a heading that is centered below that we have multiple columns. The columns contain an icon in a circle the circle has a thin border and a background color the final circle would have a solid color, essentially indicates the final step in each column. There's also a heading and a subheading to represent that step. There's also a thin line that connects between the circles, the section contains a subtle gradient CSS blob in the upper left-hand corner that makes the section not feel so flat",
     "categories": [
       "How It Works"
     ],
@@ -263,7 +263,7 @@
   {
     "id": "pricing-sections-01_awz",
     "image": "pricing-sections/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a pricing section which is really just for one price so it shouldn't say pick a plan. If you say something else, but in the left-hand column, we have a heading, followed by subheading, which is bolded, followed by a paragraph. This is to describe the plan on the right hand side we have a card which has rounded corners and a drop shadow. We want the card to have a heading above a list of features. Each of the features will have an icon checkmark icon, followed by some text. The background of that feature list should be transparent so it picks up the background of the section below the featured list. We have a another section of the card which has a solid white color background in that section. We have some text to indicate the pla name the subheading, and also some pricing information followed by a button. The section itself should have a subtle CSS gradient blob in the background of the section so that it adds a little bit of dimension to the page",
     "categories": [
       "Pricing"
     ],
@@ -272,7 +272,7 @@
   {
     "id": "pricing-sections-02_awz",
     "image": "pricing-sections/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have a centered heading text and subheading text, followed by two columns in the inside of each column there's a card the card has a thin border and a background and also a slight drop shadow soda pears like it's floating inside the card, we have a heading a subheading, followed by a thin line, and then a list of features that have an icon for each feature. The list of features also has a heading as well below the list of features there is some text that indicates the price followed by a button. The section has two background colors as if the section was split in between a light and dark color the cards would sit halfway across, so it feels like they're crossing between the two sections",
     "categories": [
       "Pricing"
     ],
@@ -281,7 +281,7 @@
   {
     "id": "pricing-sections-03_awz",
     "image": "pricing-sections/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have a centered heading tax and subheading text below. That is an area that has a different background color and also rounded corners. It has two columns and there's a thin line between the two columns so we want this to look like one card inside the two columns. We have an icon followed by some pre-text, heading text and then a list of features that has a checkmark ico, below the list of features, there would be a button noticed there are two different buttons for each of the columns",
     "categories": [
       "Pricing"
     ],
@@ -299,7 +299,7 @@
   {
     "id": "pricing-sections-05_awz",
     "image": "pricing-sections/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a pretty complex pricing section. We start off with a heading, and a subheading, which is left justified in that same row. We have a toggle between monthly and yearly, and with a yearly also indicating in a different color how much there are savings below that we have a typical pricing cards displaying different plans each plan will have a colored, heading to indicate the plan name, followed by a short description after the description you'll see the price below the price, you'll see some text that describes the price below, that you'll see a button and below the button for each of the columns you'll see a list of items. Some of the items may be disabled or look dimmed if they're not available, the section itself should have a background color, but we also want to place a subtle CSS gradient blob towards the bottom portion of the page so that this way it doesn't seem so flat",
     "categories": [
       "Pricing"
     ],
@@ -308,7 +308,7 @@
   {
     "id": "pricing-sections-06_awz",
     "image": "pricing-sections/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have text on the left-hand side and a few cars to represent different pricing plans on the left-hand side we have heading tax, followed by a paragraph and then we have some trust indicators shown with a heading some rating stars and also rating information on the right hand side, we have the plan cards each card has a thin border as well as a background solid background color the plan name will be shown, followed by the price, followed by short subheading then will have the button for the price below. The button will have a what's included in the plan listing that contains followed by a list of the items that's included.. The section itself has a subtle CSS gradient blob that's positioned towards the right hand portion of the section",
     "categories": [
       "Pricing"
     ],
