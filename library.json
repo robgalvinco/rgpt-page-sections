@@ -333,6 +333,124 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-4p9hdjwn",
+    "image": "inspiration/rgpt-4P9HDjWn.jpg",
+    "prompt": "Design Notes:\n* Faq section with expand and collapse FAQ's on the side of the section heading.\n* The first FAQ should start as open. The caret shound animate when opened and closed and use a FontAwesome icon\n* The Section heading has a pre-heading that is a gradient color",
+    "categories": [
+      "FAQs"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-7rikkvjf",
+    "image": "inspiration/rgpt-7rIKkvjF.jpg",
+    "prompt": "Design Notes:\n* A staggered list of \"how it works\" steps. Each step has a different color and is aligned off center from the previous one.\n* The background has subtle lines and numbers that indicate almost a timeline",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-81o4ronk",
+    "image": "inspiration/rgpt-81o4ROnK.jpg",
+    "prompt": "Design notes:\n* Pricing plan section with toggle between monthly and yearly payment plans\n\nEach pricing card has:\n* Price section that has the same background color as the section background.\n* Name of plan\n* Description of plan\n* Button that spans the width of the pricing card.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-83lgcmhw",
+    "image": "inspiration/rgpt-83lGCmhW.jpg",
+    "prompt": "Design notes:\n* Logo image as a \"preheading\". or just text. Ask for preference.\n* Large heading text\n* Text below the button has an avatar image at the end of the text\n* The section has a very subtle CSS blurry, blob in the right portion of the section background",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-8gtyy2p3",
+    "image": "inspiration/rgpt-8GTYy2P3.jpg",
+    "prompt": "Design notes:\n* Section with three rows of content\n\n# Row 1\n* Centered heading and subheading with two call to action buttons\n\n# Row 2\n* Three content cards, each one has a media element, heading and subheading. The card has rounded corners.\n\n# Row 2\n* 4 Cards that have a large heading stat followed by a short subheading. Mostly used to indicate key stats.",
+    "categories": [
+      "Features",
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-8jlxlxmz",
+    "image": "inspiration/rgpt-8JlxlXmZ.jpg",
+    "prompt": "Design Notes:\n* Centered heading above a grid of icon cards\n* Section has a soft blurry gradient background that adds some depth to the page.\n\n# Heading\n* Preheading has a FontAwesome icon inside a colored circle. the Preheading text is also in a pill shape with a thin border.\n\n# Icon Cards\n* Each card has rounded corners\n* The icon is a FontAwesome icon and inside a rounded quare shape with a light color backround\n* Heading and subheading\n* All cards shoudl line up no matter how long the text is.",
+    "categories": [
+      "Icon cards"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-97zkxv9y",
+    "image": "inspiration/rgpt-97zkXV9Y.jpg",
+    "prompt": "Design notes:\n* The section contain has a CSS gradient background bright color\n* And image is rotated slightly  on the right portion of the banner and may appear to overlap the container.\n* The content section has a preheading, heading, subheading and button\n* The container has a slight blurry colored shadow",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-9q0wdrru",
+    "image": "inspiration/rgpt-9Q0WdrrU.jpg",
+    "prompt": "Design notes:\n* Heading has some text that is another color. the portion of the text has a handdrawn looking underline CSS shape in that same color.\n* A list of checklist cards that contain a FontAwesome icon for the checkmark that is in the same color as the highlighted heading text. The cards has a subtle shadow.\n* below the checklist cards, there is a social proof section that contains rating stars (font awesome icons) testimonial quote with highlighted text. Avatar image with name. The testimonial section hascentered content.",
+    "categories": [
+      "Checklist"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-9rnknvrm",
+    "image": "inspiration/rgpt-9rNkNvRM.jpg",
+    "prompt": "Design notes:\n* Heading part of the section is centered. Some text will be thinner than others. \n* The preheading is a pill shaped and has a background color.\n* The info card is to represent \"steps\". You will see a large number in the white portion of the background that is subtle. The text for the card is centered an appears on top of this number\n* The media portion of the card contains a colored background color. the image a square shape and does not fill this portion of the space so that you see the color. The image will have a slightly thick border around it.\n* Generate multiple step cards as an example.",
+    "categories": [
+      "How It Works"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-9rs19er4",
+    "image": "inspiration/rgpt-9rS19ER4.jpg",
+    "prompt": "Design notes:\n* One side contains an image with rounded corners. The height of he image will be at least the height of the content.\n\nThe content portion contains the following:\n* Heading that contains a text that has a highlight color and italics. Subheading is a paragraph length.\n* Below the paragraph, there are two columsn that each contain: Icon (font Awesome), Heading, subheading",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-a0zma2q4",
+    "image": "inspiration/rgpt-A0ZMA2Q4.jpg",
+    "prompt": "Design notes:\n* Section has three parts: Heading, Logo, testimonials\n\n# Heading\n* pre heading is pill shaped with a background highlight color.\n* Centered heading test, subheading and two call to action buttons\n\n# Logo bar\n* A single row of logo images. Make sure all are they all line up.\n\n# Testimonial cards\n* rating stars (use FontAwesome icons)\n* Quote\n* Avater image - with name and type of person",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-akyiz9yb",
+    "image": "inspiration/rgpt-AkYiz9Yb.jpg",
+    "prompt": "Design notes:\n* Centered heading and subheading\n* Large image with rounded corners\n* Row of 3 content columns, each containing an icon (FontAwesome), heading and subheaing.",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-apgxvopi",
+    "image": "inspiration/rgpt-ApGXVopI.jpg",
+    "prompt": "Design Notes:\n* Image to the side of the main content, has rounded corners. \n* The image has an info card that is placed on top of the image and in the lower left corner\n* The section heading has some text that is a different color\n* Below the section paragraph, there is two columns. Each colum contains a heading stat and a short sentence.\n* Below the stat columns is a call to action",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
     "id": "pricing-sections-01_awz",
     "image": "pricing-sections/01_awz.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. Here is a pricing section which is really just for one price so it shouldn't say pick a plan. If you say something else, but in the left-hand column, we have a heading, followed by subheading, which is bolded, followed by a paragraph. This is to describe the plan on the right hand side we have a card which has rounded corners and a drop shadow. We want the card to have a heading above a list of features. Each of the features will have an icon checkmark icon, followed by some text. The background of that feature list should be transparent so it picks up the background of the section below the featured list. We have a another section of the card which has a solid white color background in that section. We have some text to indicate the pla name the subheading, and also some pricing information followed by a button. The section itself should have a subtle CSS gradient blob in the background of the section so that it adds a little bit of dimension to the page",
