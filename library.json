@@ -261,6 +261,78 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-0rqk956f",
+    "image": "inspiration/rgpt-0Rqk956f.jpg",
+    "prompt": "Design Notes:\n* Heading text contains words that are highlighted in a different color\n* The background contains a MP4 video that has a semi-transparent overlay so that the text stands out",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-0whjaoo3",
+    "image": "inspiration/rgpt-0WhJAOO3.jpg",
+    "prompt": "Design notes:\n* This section contains a background CSS shape that is placed in the upper right corner behind the text. \n* A second CSS chape is also placed in the lower left corner using another color\n\n* This section is divided up into two sections.\n\n# Section 1\n* A small pre-heading is placed over the main heading to indicate the type of section it is.\n* A heading takes up about 4/5 of the width\n* A paragrapgh \n\n# Section 2\n* The first column contains 3 items. Each item has a FontAwesome icon that is placed in a colored circle. The item has a heading and a short paragraph\n* The second column contains an miage or a looping MP4. The media has rounded corners.",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-0iarg7f5",
+    "image": "inspiration/rgpt-0iarg7F5.jpg",
+    "prompt": "Design Notes:\n* Two distinct sections. \n\n## First section\n* Large centered heading that has a different color for key words\n* 4 small images are placed in the background on the sides of the text\n\n## Second section\n* 3 columns of content that have a space between columns\n* First column contains an image that has rounded corners and is sized so that the height is the same height as the height of the content in the second column\n* Second column contains two rounded corner sections that contain some social proof. They both have a backround color and roudned corners. There is a gap between the items. The first of the two items has overlapping avatar images. The second item contains a testimonial\n* The third column contains an image that has rounded corners and is sized so that the height is the same height as the height of content in the second column",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-1sxykfb7",
+    "image": "inspiration/rgpt-1SXYkFb7.jpg",
+    "prompt": "Design notes:\n* A container has rounded corners and does not fill the width of the browser\n* The background of the container contains a MP4 video that autoplays and is silent. The video has a semi-transparent overlay so that the text is more legible.\n* There is large heading text that is centered over a button that is also centered.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-1vjyhjho",
+    "image": "inspiration/rgpt-1vJYhjHo.jpg",
+    "prompt": "Design notes:\n* A section contains centered pre-heading, heading and subheading\n* Below the heading area is a carosel of testimonials. The slider will start in the center of the list so that there are testimonials on both sides. The slider should autoplay slowly, and pause on hover. The testimoinal card that is centered will have full opacity. The others will be semi-faded so that the centered testimonial has more focus. The testimonial slider will also have arrows to advance the slider.\n* The section has a soft blurred CSS blob that has multiple colors. This adds some dimension to the section.",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-2orgzwll",
+    "image": "inspiration/rgpt-2orGzWLl.jpg",
+    "prompt": "Design motes:\n* A container has round corners and a colorful CSS gradient background.\n* Inside the contain is a MP4 video. The bottom of the video player is placed at the bottom of the container.",
+    "categories": [
+      "Video"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-3bjmjwpq",
+    "image": "inspiration/rgpt-3bjMJWPQ.jpg",
+    "prompt": "Design motes:\n* Preheading contains some info about ratings to increase the tust factor.\n* Large centered heading has words that are a different color and also italics.\n* CTA Button contains a fontawesome arrow icon that is in a different coloed circle inside the CTA\n* In the background of the heading section are two images that are placed on the edges of the browser. The images will get auto-clipped using CSS to create a shape of the image.\n* Below the main text area is a scrolling logo bar",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-4nlay2gs",
+    "image": "inspiration/rgpt-4NlaY2gs.jpg",
+    "prompt": "Design notes:\n* Preheading contain a fontawesome icon that is inside a colored circle next to text that is also inside a \"pill\" shape\n* Centered heading and subheading\n* Rows of cards that contain a FontAwesome icon and some words could indicate topics covered in a course or may also be clickable. Each card has roudned corners and there are spaces between the cards. The cards may wrap to the next row if they reach the end of the container.\n* The section contains a soft blurred CSS gradient of multiple soft colors.",
+    "categories": [
+      "Icon Cards"
+    ],
+    "video": ""
+  },
+  {
     "id": "pricing-sections-01_awz",
     "image": "pricing-sections/01_awz.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. Here is a pricing section which is really just for one price so it shouldn't say pick a plan. If you say something else, but in the left-hand column, we have a heading, followed by subheading, which is bolded, followed by a paragraph. This is to describe the plan on the right hand side we have a card which has rounded corners and a drop shadow. We want the card to have a heading above a list of features. Each of the features will have an icon checkmark icon, followed by some text. The background of that feature list should be transparent so it picks up the background of the section below the featured list. We have a another section of the card which has a solid white color background in that section. We have some text to indicate the pla name the subheading, and also some pricing information followed by a button. The section itself should have a subtle CSS gradient blob in the background of the section so that it adds a little bit of dimension to the page",
