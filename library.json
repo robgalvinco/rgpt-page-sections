@@ -451,6 +451,170 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-bwnnutbo",
+    "image": "inspiration/rgpt-BWNNUtBO.jpg",
+    "prompt": "This section is meant to describe the course content and as you scroll down the line in the middle is filled in with a color.\n\nDesign notes:\n* Alternating \"Feature blocks\" each with an imahe, heading, paragraph.\n* Line in the center of the page is filled in with a color as you scroll\n\nTypically there will be more than twp feature blocks listed. The image is showing one feature block to the left of the line and a second feature block to the right of the line.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-cguriqqv",
+    "image": "inspiration/rgpt-CgURIQqV.jpg",
+    "prompt": "This section is intended to be used to dmeonstrate social proof in the form of stats, video testimonial and quote. It is divided up into three rows.\n\nDesign notes:\n\n# Row 1\n* Heading contains some text that has colored highlighted words.\n* The left column contains a heading and a call to action button\n* The right column contains a paragragh\n\n# Row 2\nThree columns that each contain:\n* A thin border to the left of the highlight color\n* Large stat ex: 1m+\n* Short subheading that describes the stat type\n\n# Row 3\nTwo columns\n* First colum contains an embedded video that is meant to be a testimonial\n* The second column contains a traditional quote testimonial, along with star icons (fontAwesome), an avatar image and a name",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-dql9t7ey",
+    "image": "inspiration/rgpt-Dql9T7ey.jpg",
+    "prompt": "Design notes:\n* The section heading contains text that has some words are that are a different color and also italics\n* There is a call to action button that appears in the same row as the subheading, but on the right hand side of the screen\n* The testimonial cards are a different color they have rounded corners. It also includes rating icons as well as a quote, and also the persons name and avatar image that is shown in the lower right hand corner of the card.",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-eoaeuybj",
+    "image": "inspiration/rgpt-Eoaeuybj.jpg",
+    "prompt": "This section is intended to show some key reasons why somebody should be joining a particular course\n\nDesign notes:\n* That section heading contains tax. That may be a different color.\n* A large video below the head spans the width of the container. It also has rounded corners. Be sure to make sure the image fills the space.\n* Below the image are a grid of statistics and two columns. Each statistic has a number in in one area and some some text in the second area.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-fvu8f2tu",
+    "image": "inspiration/rgpt-FVU8F2TU.jpg",
+    "prompt": "This section is typically used as a hero banner, for a landing page or a sales page.\n\nDesign notes:\n\n# Countdown timer bar\n* A thin bar is shown first, which is intended to drive some urgency with some text and a countdown timer\n\n# Main Section\n* The pre-heading text is within a pill shape that is semi transparent. It also contains an FontAwesome icon to the left of the pre-heading text.\n* The main heading tax is large, and includes some words that will be a different color under those words. There should be a hand drawn SVG underline, which looks like somebody took a marker and underlined those words.\n* Below the section subheading is a embedded video that has rounded corners. The video seems to be positioned so that it is sitting over a part of the next section\n* The section contains a gradient color background that also has two SVG shapes positioned in the upper right hand corner in the lower left corner of the background",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-fz5uphbw",
+    "image": "inspiration/rgpt-FZ5uPHBw.jpg",
+    "prompt": "This section is intended to list the benefits of joining a particular class or coaching program.\n\nDesign notes:\n* An image placed to the left of a list of items the image has rounded corners. It also has an SVG colored shape that's placed on top of the upper right hand corner of the image.\n* The content to the right of the image contains a list of items. Each item has a number that is inside of a colored circle. The item also has baldhead and subtext.\n* The section also has a light SVG blob that is positioned in the background behind all text and is positioned to the lower right hand portion of the section",
+    "categories": [
+      "Checklist"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-fjyrkviz",
+    "image": "inspiration/rgpt-FjYrkviZ.jpg",
+    "prompt": "This section is typically going to describe what somebody will learn inside of a course, but it could also be used as many called to action cards as well.\n\nDesign notes:\n* Below the centered, heading in subheading is a grid of image cards\n* Each card should be the same size and the image should fill the entire background. The card also has rounded corners.\n* The tax portion of the card should be placed on top of the image, and there should be a semi-transparent overlay to ensure that the text is readable\n* The text on the image contains a pre-heading that is highlighted in a pill, shape, heading and then link text which also has an icon\n* The entire card should be clickable so that I would navigate to another page",
+    "categories": [
+      "Image Cards"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-ggjjemuh",
+    "image": "inspiration/rgpt-GGjjemUH.jpg",
+    "prompt": "This section is intended to show some key features of a course as well as a quick, scannable checklist.\n\nDesign Notes:\n* Use font awesome icons for all of the icons shown here in the image\n* Be sure to make sure the image in the center has rounded corners and also lines up with the top and bottom of the section content so that it all looks like it lines up properly",
+    "categories": [
+      "Checklist",
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-gduxlko2",
+    "image": "inspiration/rgpt-GdUXLko2.jpg",
+    "prompt": "This section is intended to list upcoming events or webinars.\n\nDesign notes\n* Each event card has rounded corners and some padding\n* The image inside of the event card also has some rounded corners as well\n* The event name and description are shown and below that is the event date and location. Be sure to use font awesome icons for the date and locat",
+    "categories": [
+      "Events"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-aqkkle5g",
+    "image": "inspiration/rgpt-aqKKlE5g.jpg",
+    "prompt": "This section contains a carosel of content cards to highlight features in a membership or course/\n\nDesign notes:\n* Content cards have rounded corners with a centered heading and subheading\n* The content card also has an image that is places at the bottom of the card right up to the edge.\n* The slider will autoplay very slowly and pause on hover. The cards that are on the edge of the browser will display in a semi-transparent way.",
+    "categories": [
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-avynixxt",
+    "image": "inspiration/rgpt-avYNiXXt.jpg",
+    "prompt": "Design notes\n* An image is displayed above the heading that can wither be a logo or social proof\n* The media to the right of the text can either be a video or an image. It should have rounded corners\n* The container will have a different cbackground olor than the section background color and will have rounded corners",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-bpoj8nhi",
+    "image": "inspiration/rgpt-bPoj8NHi.jpg",
+    "prompt": "This hero banner section is great for sites that have many instructors.\n\nDesign notes:\n* The pre-heading has a pill shape to it and has a different background color than the section. Inside the pre-heading, there is another pill shaped word with a different background color, ex \"New\"\n* There is a standard large heading, paragraph and two call to action buttons\n* Below the buttons are three quick facts each contain a fontawesome icon and short text\n* The media contains a slider of instructor cards each showing an image of the instructor and the same. The sides of the slider seem to fade into the page\n* Below the main content area is another row that contains a logo carosel. This slider also seems to fade into the sides of the page.",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-dc0oaner",
+    "image": "inspiration/rgpt-dC0oaner.jpg",
+    "prompt": "This section is intended to be used for showing instructors or team members.\n\nDesign notes:\n* Centered heading that contains words that may be a different color.\n* A preheading that is pilled shaped and has a bright background color.\n* A grid of instrctor cards each containing their title in a pill shaped grey area along with their name and short description",
+    "categories": [
+      "Instructors"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-de8shhxu",
+    "image": "inspiration/rgpt-dE8sHHXu.jpg",
+    "prompt": "This section is a typical testimonial section that highlights one testimonmial at a time.\n\nDesign notes:\n* Avatar images shown in a row. The image that correpsonds to the current testimonial is shown in full opacity. the others are dimmed.\n* The testimonials will automatically rotate along with the highlighted image\n* If someone clicks on an avatar image, that testimonial will be highlighted.",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-dlucax6f",
+    "image": "inspiration/rgpt-dLUCaX6F.jpg",
+    "prompt": "This section shows a grid of testimonial cards that contain an optinal logo.\n\nDesign notes:\n* Section contains a thin line and small text that introduces the section\n\nHeading section:\nContains two columns:\n* There's a large, heading in the first column and part of the heading words are highlighted in a different color.\n* The second column contains a short paragraph\n\nTestimonial grid:\n* Each testimonial card has rounded corners and starts off with an optional logo image, followed by a quote, the persons name, and a subtitle\n* Below the text in the testimonial card is an image of the person. The image has rounded corners and doesn't fill the entire width of the testimonial card. Keep the images all square no matter what sized image is shown, making sure that the image fills the square and they're all the same size.",
+    "categories": [
+      "Testimonial"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-domi2oif",
+    "image": "inspiration/rgpt-dOMI2Oif.jpg",
+    "prompt": "This section is typically used for a large hero banner, or a final called action on a landing page\n\nDesign notes:\n* The section has a blurred, soft gradient blob in the upper left-hand corner of the background on a dark background color\n* The pre-heading is contained inside of a pill sheep that has a different, semi transparent color on the left-hand side of the preheading is a fontawesome icon, and on the right hand side of the preheading text is another fontAwesome icon that looks like an arrow.\n* Heading text is quite large followed by normal subheading text\n* Below the subheading text is a call action button that also contains an icon that is an arrow\n* Below the button is a stack of avatar images that overlap and below. The images is some small text that indicates the number of students.",
+    "categories": [
+      "Call To Action",
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-ec0kh2lx",
+    "image": "inspiration/rgpt-eC0KH2lX.jpg",
+    "prompt": "The section is intended to show a gallery of student work that have taken a particular course the demonstrate outcomes that students would've created from the course\n\nDesign notes:\n* Below the section heading and paragraph you'll see a Masonary style list of images of various shapes and sizes we want to make sure there is a gap between each image. The images should also have slightly rounded corners and they should all line up nicely, so there's no large gaps so be sure to stretch the images to make sure they all fit in this sort of format.",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-fh41w9sg",
+    "image": "inspiration/rgpt-fh41w9SG.jpg",
+    "prompt": "This section is intended to highlight the instructor for a course and provide some credibility boosters and social proof\n\nDesign notes:\n* The container for this section is a different background color than the section background color color. The container also has slightly rounded corners.\n* The instructor image height should be stretched to make sure it matches the height of the content\n* The instructor information on the right of the image contains a heading a few paragraphs and then a list of statistics each statistic has a colored icon and some short text\n* Below the list of statistics is a scrolling logo bar",
+    "categories": [
+      "Instructor"
+    ],
+    "video": ""
+  },
+  {
     "id": "pricing-sections-01_awz",
     "image": "pricing-sections/01_awz.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. Here is a pricing section which is really just for one price so it shouldn't say pick a plan. If you say something else, but in the left-hand column, we have a heading, followed by subheading, which is bolded, followed by a paragraph. This is to describe the plan on the right hand side we have a card which has rounded corners and a drop shadow. We want the card to have a heading above a list of features. Each of the features will have an icon checkmark icon, followed by some text. The background of that feature list should be transparent so it picks up the background of the section below the featured list. We have a another section of the card which has a solid white color background in that section. We have some text to indicate the pla name the subheading, and also some pricing information followed by a button. The section itself should have a subtle CSS gradient blob in the background of the section so that it adds a little bit of dimension to the page",
