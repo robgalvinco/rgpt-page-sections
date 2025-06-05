@@ -1,7 +1,7 @@
 ---
 image: rgpt-dLUCaX6F.jpg
 categories:
-  - Testimonial
+  - Testimonials
 video:
 ---
 This section shows a grid of testimonial cards that contain an optinal logo.

@@ -1,7 +1,7 @@
 ---
 image: rgpt-8JlxlXmZ.jpg
 categories:
-  - Icon cards
+  - Icon Cards
 video:
 ---
 Design Notes:

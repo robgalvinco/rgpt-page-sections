@@ -1,7 +1,7 @@
 ---
 image: rgpt-fh41w9SG.jpg
 categories:
-  - Instructor
+  - Instructors
 video:
 ---
 This section is intended to highlight the instructor for a course and provide some credibility boosters and social proof

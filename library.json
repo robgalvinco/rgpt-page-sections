@@ -164,9 +164,9 @@
   {
     "id": "hero-sections-000001",
     "image": "hero-sections/000001.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a hero section that we typically find on a course landing page. There are two columns on the left-hand side. There is some text it starts off with the pre-heading pill, which is small text that is that has a background color. It's also has rounded corners in an icon that is the main heading in large tax followed by subheading. There are two buttons. One is a primary button one is a secondary button below the button are some trust factors there's a heading and then an area for some logos we want to make sure that the logos are resized so that they fit in the space to the right hand side we have an image we would like to place a subtle radiant CSS blob behind the image to give the section some depth to it.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a Hero Banner that we typically find on a course landing page. There are two columns on the left-hand side. There is some text it starts off with the pre-heading pill, which is small text that is that has a background color. It's also has rounded corners in an icon that is the main heading in large tax followed by subheading. There are two buttons. One is a primary button one is a secondary button below the button are some trust factors there's a heading and then an area for some logos we want to make sure that the logos are resized so that they fit in the space to the right hand side we have an image we would like to place a subtle radiant CSS blob behind the image to give the section some depth to it.",
     "categories": [
-      "Hero Section"
+      "Hero Banner"
     ],
     "video": ""
   },
@@ -175,7 +175,7 @@
     "image": "hero-sections/000002.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. Here is a section that we would typically use for a hero banner on a course membership site the section has an image on the left-hand side behind the image is a colored background, but it doesn't completely take the full width of that column. It just shows partially behind the image on the right hand side of the right column. We have a large, heading, followed by a subheading, instead of an email input we want to just have a primary and secondary button below the button we will have some social proof in the form of rating stars as well as some rating information and then a logo of the rating provider that will be in the form of an image.",
     "categories": [
-      "Hero Section"
+      "Hero Banner"
     ],
     "video": ""
   },
@@ -184,16 +184,16 @@
     "image": "hero-sections/000003.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. Here is a large centered hero banner that has a pre-heading text as well as a large, heading filed by a button below the button there is another call to action which looks more like text. It has an icon before the text below, that you'll see a large image that kind of represents a webinar screen. The section itself has a subtle gradient blob in the upper left-hand corner. We wanna make sure that is handled via CSS. There's also another subtle gradient blob of a different color in the lower right hand corner.",
     "categories": [
-      "Hero Section"
+      "Hero Banner"
     ],
     "video": ""
   },
   {
     "id": "hero-sections-000004",
     "image": "hero-sections/000004.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a hero section will be used on a course or membership site on the left-hand side. We want to have a pre-heading that. Has this rounded sort of pill look. It also has an icon next to it as well. The pill has the subtle background color then we have the main heading, which is a large font, followed by a short paragraph, that's also followed by a called action button below. The button is some social proof which contains a heading some rating stars and some rating information on the right hand side. We have several images that should be placed just like it is in the screen where they're kind of stacked and shown in . You can ignore the video play button for now.",
+    "prompt": "Create this section as close as to the design as you can replicate it. Here is a Hero Banner will be used on a course or membership site on the left-hand side. We want to have a pre-heading that. Has this rounded sort of pill look. It also has an icon next to it as well. The pill has the subtle background color then we have the main heading, which is a large font, followed by a short paragraph, that's also followed by a called action button below. The button is some social proof which contains a heading some rating stars and some rating information on the right hand side. We have several images that should be placed just like it is in the screen where they're kind of stacked and shown in . You can ignore the video play button for now.",
     "categories": [
-      "Hero Section"
+      "Hero Banner"
     ],
     "video": ""
   },
@@ -202,7 +202,7 @@
     "image": "hero-sections/000005.jpg",
     "prompt": "Create this section as close as to the design as you can replicate it. There are two portions to the section we have the main tax area and then we also have some logos below it in the main area. We want to have the container have rounded corners and the container have a background image. We don't want the section to have a background image we just want the container to have a background image inside the that particular section will have a subheading a button. They'll also be some subtext below the button below. The main text section will have a logo bar. The logo bar will contain a variety of logo images and it'll also have a heading for that particular section the logos may be different sizes and shapes. Let's make sure they all lineup properly.",
     "categories": [
-      "Hero Section"
+      "Hero Banner"
     ],
     "video": ""
   },
@@ -383,7 +383,7 @@
     "image": "inspiration/rgpt-8JlxlXmZ.jpg",
     "prompt": "Design Notes:\n* Centered heading above a grid of icon cards\n* Section has a soft blurry gradient background that adds some depth to the page.\n\n# Heading\n* Preheading has a FontAwesome icon inside a colored circle. the Preheading text is also in a pill shape with a thin border.\n\n# Icon Cards\n* Each card has rounded corners\n* The icon is a FontAwesome icon and inside a rounded quare shape with a light color backround\n* Heading and subheading\n* All cards shoudl line up no matter how long the text is.",
     "categories": [
-      "Icon cards"
+      "Icon Cards"
     ],
     "video": ""
   },
@@ -582,7 +582,7 @@
     "image": "inspiration/rgpt-dLUCaX6F.jpg",
     "prompt": "This section shows a grid of testimonial cards that contain an optinal logo.\n\nDesign notes:\n* Section contains a thin line and small text that introduces the section\n\nHeading section:\nContains two columns:\n* There's a large, heading in the first column and part of the heading words are highlighted in a different color.\n* The second column contains a short paragraph\n\nTestimonial grid:\n* Each testimonial card has rounded corners and starts off with an optional logo image, followed by a quote, the persons name, and a subtitle\n* Below the text in the testimonial card is an image of the person. The image has rounded corners and doesn't fill the entire width of the testimonial card. Keep the images all square no matter what sized image is shown, making sure that the image fills the square and they're all the same size.",
     "categories": [
-      "Testimonial"
+      "Testimonials"
     ],
     "video": ""
   },
@@ -610,7 +610,7 @@
     "image": "inspiration/rgpt-fh41w9SG.jpg",
     "prompt": "This section is intended to highlight the instructor for a course and provide some credibility boosters and social proof\n\nDesign notes:\n* The container for this section is a different background color than the section background color color. The container also has slightly rounded corners.\n* The instructor image height should be stretched to make sure it matches the height of the content\n* The instructor information on the right of the image contains a heading a few paragraphs and then a list of statistics each statistic has a colored icon and some short text\n* Below the list of statistics is a scrolling logo bar",
     "categories": [
-      "Instructor"
+      "Instructors"
     ],
     "video": ""
   },
