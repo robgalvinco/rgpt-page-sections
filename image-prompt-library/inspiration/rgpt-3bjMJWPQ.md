@@ -4,7 +4,7 @@ categories:
   - Hero Banner
 video:
 ---
-Design motes:
+Design notes:
 * Preheading contains some info about ratings to increase the tust factor.
 * Large centered heading has words that are a different color and also italics.
 * CTA Button contains a fontawesome arrow icon that is in a different coloed circle inside the CTA

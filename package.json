@@ -12,6 +12,7 @@
   "dependencies": {
     "chokidar": "^4.0.3",
     "fs-extra": "^11.3.0",
-    "gray-matter": "^4.0.3"
+    "gray-matter": "^4.0.3",
+    "pdfkit": "^0.17.1"
   }
 }
