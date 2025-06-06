@@ -941,5 +941,24 @@
       "Pricing"
     ],
     "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-tvayqwc5",
+    "image": "inspiration/rgpt-tvAyQwC5.jpg",
+    "prompt": "# Purpose:\nThis founder message section provides a personal, authoritative touchpoint that builds institutional trust and credibility for online educators. It reassures potential students that the learning experience is backed by expertise and long-standing commitment. By combining a visual introduction of leadership with a direct quote, this layout encourages emotional connection, promotes transparency, and enhances the brand's perceived legacy—crucial for converting skeptical or comparison-shopping learners.\n\n# Design Notes:\n\n## Section Layout\n* Two-column layout: visuals left, text right — suitable for `CSS Grid` or `Flexbox`\n* Balanced white space around each content block creates a clean, modern impression\n* Ideal for large screens but stacks responsively on mobile\n\n## Visual Elements (Left)\n* Two overlapping portrait images — one larger, one foregrounded with slight drop shadow\n  * Use `position: absolute/relative` for offset overlap\n  * Apply `rounded-lg` and `box-shadow-md`\n* Positioned university seal — likely inline SVG with serif text and laurel elements\n  * Recommend using `SVG` for crisp scaling and embedding award date + badge info\n\n## Text Block (Right)\n* Hierarchical heading: “Message from the main founder”\n  * Use bold sans-serif for “Message from the main” and a highlight color for “founder”\n  * Suggest `font-weight: 700` with custom color token (e.g., `text-primary-dark`)\n* Supporting paragraph in muted gray (`text-gray-500`) for contrast\n* Highlighted quote block: use left border line (`border-l-4`) and padding\n  * Helps isolate the key takeaway for scan-readers\n\n## Signature Footer\n* Circular avatar of founder with label (“Founder”) and name in bold\n* Digital signature placed beside name — inline image or hand-drawn SVG\n* Structured using `flex` layout with spacing utilities (`gap-4`, `items-center`)\n\n## Visual Styling\n* Modern academic aesthetic: serif/sans-serif blend, deep maroon brand color\n* Ample padding, generous line height (`leading-relaxed`)\n* Use `max-w-prose` or `max-w-lg` to keep line lengths readable\n\n## Implementation Guidance\n* Implement image stacking with `z-index` and `translate-y` shifts\n* Seal badge should use inline SVG for sharpness and accessibility\n* Signature element can be `img` with `alt` text or `aria-hidden=\"true\"` if decorative",
+    "categories": [
+      "Content",
+      "Instructor"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-ucentbnb",
+    "image": "inspiration/rgpt-ucENtbNb.jpg",
+    "prompt": "# Purpose:\nThis section is designed to serve as the hero or top banner of a landing page for an online course or coaching program. Its goal is to establish immediate clarity about the course’s value proposition—helping creators turn their followers into clients. It combines a compelling headline, trust-building student ratings, and clear calls-to-action. The layout supports conversion by keeping focus centered, simplifying the decision-making process, and anchoring visual attention with a video introduction that builds a personal connection.\n\n# Design Notes:\n\n## Hero Text & CTA Section\n* Centered heading with bold text and selective word emphasis using darker color to highlight key transformation outcomes\n* Subheading positioned just below the main headline with reduced font size and lighter color for supporting context\n* Student avatar images displayed in a circular row as social proof, followed by star icons and a rating summary—recommend using FontAwesome stars\n* Two horizontally aligned CTA buttons:\n  - Primary button in a high-contrast, vibrant color with rounded corners\n  - Secondary button in an outlined style with subtle background and lighter border\n* Layout structured as a vertically stacked Flexbox container, centered both horizontally and vertically\n* Background uses a very subtle grid texture for depth—can be achieved with a repeating SVG or low-opacity PNG grid pattern\n\n## Video Introduction Section\n* Full-width video container with rounded corners\n* Video framed with a dark border and soft shadow to separate it from the white background\n* Video sits below the hero text, creating a visual flow from headline → credibility → visual introduction\n* Maintain aspect ratio on video element; use `object-fit: cover` and `border-radius` for clean embedding\n* Margins above and below the video are generous to give breathing space and emphasize its importance",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
   }
 ]
