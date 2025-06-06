@@ -1,6 +1,8 @@
 ---
 image: rgpt-xErkYTOr.jpg
 categories:
-  - Call To Action
+  - Icon cards
+  - Content
+  - Features
 video:
 ---
