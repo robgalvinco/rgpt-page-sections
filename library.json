@@ -1,266 +1,5 @@
 [
   {
-    "id": "cta-01_awz",
-    "image": "cta/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a centered, heading, as well as a subheading, followed by a button below. The button is a overlapped stack of avatar images. That also has some text next to it. This is to essentially help with some social proof below the call to action button.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": "7ca7f5cb8553495aa8324fac68bc16d5"
-  },
-  {
-    "id": "cta-02_awz",
-    "image": "cta/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section essentially contains two columns. The first column contains a heading and a paragraph the second column is positioned all the way to the right of the section and it has two buttons that are stacked on top of each other. The section itself has a few elements first, there's a background color, but we also want to place a subtle blurry, Grady and blob in the lower right hand corner so that the section doesn't feel so flat",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-03_awz",
-    "image": "cta/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. It has a pre-heading, as well as a centered large heading, followed by a call to action button. The background is image that is blurred using CSS and has a semi-transparent overlay on top of the image so that the text stands out. This call to action would typically be used as a closer CTA at the bottom of a landing page.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-04_awz",
-    "image": "cta/04_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. It contains text that is on the left-hand side as well as buttons. This section will contain a background image, and we want the background image to have a gradient overlay that is mostly solid on the left-hand side, but then goes to transparent on the right hand side, so that the text will stand out, as well as the buttons.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-05_awz",
-    "image": "cta/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section contains an image on the left-hand side on the right hand side there is a heading followed by a list of text each item contains an icon next to the text instead of using an input for email. Let's just go with a call to action button below the button we want to have some sub text as well.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-06_awz",
-    "image": "cta/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. There is centered, heading, followed by a button below the button there is a \"to the left of the text. We have an image that is rotated, using CSS on top of the left image, there is a play button icon, but we don't want to play any video here. We just want the image on the right hand side there's another image which is also rotated in the opposite direction for the section background. We want to use a soft blurry blob, which is very subtle, but makes the section not feel so flat.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-07_awz",
-    "image": "cta/07_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this section, there are essentially three columns. The first column contains a heading and a subheading. The second column contains cards. Each card has an icon a heading a short paragraph and then at the bottom of the card there is a call to action link that also has an icon as well, be sure to make the entire card clickable and not just the link on the card.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-08_awz",
-    "image": "cta/08_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a large, heading that spans across the entire container below the heading there is a thin line that separates it from the next row. The next row contains three columns. Each column contains a heading a paragraph and a link the link contains an icon.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "cta-09_awz",
-    "image": "cta/09_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section contains a large, heading that is centered on the page, followed by a button below the button is a social proof section that contains a set of logos. The logo section has a heading, and the logos should appear in three columns. Sometimes the logo images may be different sizes, but let's make sure they all lineup nicely no matter if the logo image is rectangular or square.",
-    "categories": [
-      "Call To Action"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-01_awz",
-    "image": "features/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In a section, we have simply two columns on the left-hand column. There is a heading, followed by a paragraph on the right side. There is an image. The section also contains a very subtle gradient blob in the upper left-hand corner, which doesn't make the section look flat. We can also apply some sort of subtle shadowy shape behind the image as well.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-02_awz",
-    "image": "features/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section is to quickly communicate benefits of a course or a membership at in a ataglance sort of way there are three columns. Each column will contain an image and some text. We wanna make sure that they all line up even if the text is different lanes the text should be centered in the image.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-03_awz",
-    "image": "features/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section would typically be used to talk about features, and either a course or a membership and contains a few different components. There are three columns in this section. The first column contains a heading and a paragraph the second column in the section contains an image on top of the image. We want to have a blurred effect where there is text on top of this blurred overlay the text has a heading and some subheading the third column ha, two elements or two rows, each row has a heading and a subheading, and the rows are split by a thin line.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-04_awz",
-    "image": "features/04_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section is going to talk about a key feature or benefit of a course or a membership. We want to have two columns, essentially on the left-hand side. There is a heading a paragraph a button below the button there is a small image with some text next to the image. The second column on the right contains a single image that almost looks like two images but for now, let's just make it one image.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-05_awz",
-    "image": "features/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section is typically used to talk about features inside of a membership or a course contains a heading in the first row in the second row we have two columns. The first column contains an image the image and that column contains a text that looks like a button that should be created via CSS, which is overlaid on top of the image. It's intended to open a pop-up vide, in the second column of the section it's essentially split into two rows. The first row has a paragraph or two, and then there is a thin line that separates the next row, which contains two columns in each of those columns. There's a heading that is colored and then there is a subheading below it.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-07_awz",
-    "image": "features/07_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section can typically represent benefits of a course, and we have a few different components in this section. The first row of the section is split into two columns, where we have a large heading in the first column and then in the second column, we have a paragraph in the next row of the section we have three image cards, the images should all be the same size and fill that space so all the cards lineup no matter what image is provided we should make sure the image gets filled on top of the card at the bottom. We have some text that is overlaid on top of the image the text has a background behind it, which is semi transparent so that this way the text will stand out on top of the image the image cards also have rounded corners as well.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-08_awz",
-    "image": "features/08_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. This section will typically talk about features or benefits of a membership or course program. It contains two columns on the left-hand side they'll be an image and on top of the image towards the right we want to have a quote box. This quote box will not cover the full image. It will only cover a very small portion of the image and will also be semi-transparent, so that this way we can see the image behind it on the right hand side of the section we have three rows in that column each row contains an icon to the right of the icon. They will be heading and the paragraph each row essentially also has some padding and a thin line separating it from the next row.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-10_awz",
-    "image": "features/10_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. The section is typically used to showcase key features of a course or a membership site. It starts with a centered, heading below the heading or three columns inside of each column is a card. Each card contains a subheading that is centered as well as an image that's placed at the bottom of the card. The card has rounded corners and also a subtle background color, which makes it feel like it's a card.",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "features-12_awz",
-    "image": "features/12_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this section, we have two columns, essentially in the first column on the left there is a card style look where we would have a subtle background color and rounded corners inside the card. We're going to have a heading, and a subheading, followed by one image that would kind of represent the three images at the bottom of the card on the right hand side of this section we have some text and content it starts off with a small preheating, followed by a h, and then we have two columns that will have an icon heading and subheading in each of the columns after the two columns we will have a button",
-    "categories": [
-      "Features"
-    ],
-    "video": ""
-  },
-  {
-    "id": "hero-sections-000001",
-    "image": "hero-sections/000001.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a Hero Banner that we typically find on a course landing page. There are two columns on the left-hand side. There is some text it starts off with the pre-heading pill, which is small text that is that has a background color. It's also has rounded corners in an icon that is the main heading in large tax followed by subheading. There are two buttons. One is a primary button one is a secondary button below the button are some trust factors there's a heading and then an area for some logos we want to make sure that the logos are resized so that they fit in the space to the right hand side we have an image we would like to place a subtle radiant CSS blob behind the image to give the section some depth to it.",
-    "categories": [
-      "Hero Banner"
-    ],
-    "video": ""
-  },
-  {
-    "id": "hero-sections-000002",
-    "image": "hero-sections/000002.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a section that we would typically use for a hero banner on a course membership site the section has an image on the left-hand side behind the image is a colored background, but it doesn't completely take the full width of that column. It just shows partially behind the image on the right hand side of the right column. We have a large, heading, followed by a subheading, instead of an email input we want to just have a primary and secondary button below the button we will have some social proof in the form of rating stars as well as some rating information and then a logo of the rating provider that will be in the form of an image.",
-    "categories": [
-      "Hero Banner"
-    ],
-    "video": ""
-  },
-  {
-    "id": "hero-sections-000003",
-    "image": "hero-sections/000003.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a large centered hero banner that has a pre-heading text as well as a large, heading filed by a button below the button there is another call to action which looks more like text. It has an icon before the text below, that you'll see a large image that kind of represents a webinar screen. The section itself has a subtle gradient blob in the upper left-hand corner. We wanna make sure that is handled via CSS. There's also another subtle gradient blob of a different color in the lower right hand corner.",
-    "categories": [
-      "Hero Banner"
-    ],
-    "video": ""
-  },
-  {
-    "id": "hero-sections-000004",
-    "image": "hero-sections/000004.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a Hero Banner will be used on a course or membership site on the left-hand side. We want to have a pre-heading that. Has this rounded sort of pill look. It also has an icon next to it as well. The pill has the subtle background color then we have the main heading, which is a large font, followed by a short paragraph, that's also followed by a called action button below. The button is some social proof which contains a heading some rating stars and some rating information on the right hand side. We have several images that should be placed just like it is in the screen where they're kind of stacked and shown in . You can ignore the video play button for now.",
-    "categories": [
-      "Hero Banner"
-    ],
-    "video": ""
-  },
-  {
-    "id": "hero-sections-000005",
-    "image": "hero-sections/000005.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. There are two portions to the section we have the main tax area and then we also have some logos below it in the main area. We want to have the container have rounded corners and the container have a background image. We don't want the section to have a background image we just want the container to have a background image inside the that particular section will have a subheading a button. They'll also be some subtext below the button below. The main text section will have a logo bar. The logo bar will contain a variety of logo images and it'll also have a heading for that particular section the logos may be different sizes and shapes. Let's make sure they all lineup properly.",
-    "categories": [
-      "Hero Banner"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-01_awz-(1)",
-    "image": "how-it-works/01_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this house, it works section. We have a heading in the first row in the second row we have a numbered line. Each number is in a circle. The circle has a border and a color behind it connecting the columns is a thin line that centered in the circle each item has a heading below it. Essentially this is to help with people seeing how easy it is to maybe join a program or to purchase a course",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-03_awz-(1)",
-    "image": "how-it-works/03_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In the section we want to communicate how things work when joining a course or the three key benefits of a course and it contains a few different elements on the left-hand side in the first column there's a large, heading in a paragraph, then on the right hand side in the second column we have looks like a timeline that connects three elements each element has an icon that positioned in a circle. The item also has a heading and a paragraph and there's a line connecting the icons between each of the items.",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-04_awz-(1)",
-    "image": "how-it-works/04_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this, how does it work section? We have a centered, heading, and subheading below, that we have a container that has rounded corners. The container contains a background image that should fill the entire space of the container, no matter what the size of the image that is provided the image has a gradient overlay on top of the image starting from the left to the right, so that this way the text is readable in the text column, we have rose that represents steps. Each row has a checkmark icon in a circle. The circle has a background color and a slight border. The staff also has a pre-heading and a subheading the steps are connected with a dotted or dash line so it looks like a timeline.",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-05_awz-(1)",
-    "image": "how-it-works/05_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this, how it works section, we have a centered, large, heading, followed by a subheading below that is a row that contains three columns. Each column has a centered icon in a circle, followed by a heading, and they subheading connecting. The items is an image that looks like a dotted line.",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-06_awz",
-    "image": "how-it-works/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this, how it works section we have two columns. The first column has a heading, followed by a numbered list of items. Each item has a number that is going to be inside of a circle. The circle has a thin border. The item also has a head and a subheading in that same column. We also have a button to the right in the second column. We have an image that has rounded corners.",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
-    "id": "how-it-works-07_awz-(1)",
-    "image": "how-it-works/07_awz (1).jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this house, does it work section we have a pre-heading that is simply colored text, followed by a heading that is centered below that we have multiple columns. The columns contain an icon in a circle the circle has a thin border and a background color the final circle would have a solid color, essentially indicates the final step in each column. There's also a heading and a subheading to represent that step. There's also a thin line that connects between the circles, the section contains a subtle gradient CSS blob in the upper left-hand corner that makes the section not feel so flat",
-    "categories": [
-      "How It Works"
-    ],
-    "video": ""
-  },
-  {
     "id": "inspiration-rgpt-0rqk956f",
     "image": "inspiration/rgpt-0Rqk956f.jpg",
     "prompt": "Design Notes:\n* Heading text contains words that are highlighted in a different color\n* The background contains a MP4 video that has a semi-transparent overlay so that the text stands out",
@@ -597,11 +336,199 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-js8ohhoj",
+    "image": "inspiration/rgpt-JS8ohHoj.jpg",
+    "prompt": "# Purpose:\nThis hero section is designed to motivate visitors to invest in their personal growth by enrolling in expert-led online courses. It targets learners—especially aspiring entrepreneurs, creators, and professionals—by using emotional appeal and credibility indicators (such as student count and avatars). The goal is to boost conversions through bold typography, direct CTAs, and relatable visuals, making it highly effective for course creators, coaches, or membership owners who want to drive immediate action.\n\n# Design Notes:\n\n## Layout Structure\n* Center-aligned vertical layout with headline, subheadline, button, avatars, and image\n* Generous vertical spacing between elements maintains clarity and rhythm\n* Responsive stacking ensures clean mobile experience\n\n## Heading & Subheading\n* Headline in serif font with split-color emphasis:\n  - “You Can Make is in Yourself” in golden-yellow (`#E5B85A`) to highlight self-investment\n  - Contrast maintained with the rest of the heading in white\n* Subheadline in smaller, light gray sans-serif font for contrast and hierarchy\n\n## Call to Action\n* Rounded-pill button in golden-yellow with dark text\n* Simple text: “Start Learning Today”\n* Likely uses `hover: brightness()` or slight scaling for interactivity\n\n## Social Proof (Avatars + Count)\n* Row of 4 circular avatar images with slight overlap (`border-radius: 50%`, `margin-left: -8px`)\n* Below avatars: text “Joins 28,500+ like students” in small, muted font for subtle reinforcement\n\n## Image Area\n* Full-width, high-resolution image of a student working at a desk\n* Rounded corners and subtle drop shadow suggest card-like treatment\n* Positioned with ample margin below the CTA stack to act as contextual reinforcement\n\n## Visual Styling & Implementation\n* Background color: dark slate/black for elegance and contrast\n* Button styling: `border-radius: 999px`, `padding: 12px 24px`\n* Use `Flexbox` or `grid` for centered vertical alignment\n* Avatar images likely managed with absolute or relative positioning for overlap\n* Ensure image is `max-width: 100%` and has `object-fit: cover` to maintain aspect ratio",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
     "id": "inspiration-rgpt-jfjfjqva",
     "image": "inspiration/rgpt-JfjfjQva.jpg",
     "prompt": "# Purpose:\nThis hero section is designed to promote an online course—The Copy Cure—using emotionally persuasive design and high-converting visual elements. It's crafted to appeal to coaches, course creators, and small business owners looking to improve their copywriting skills. The bold color palette, product mockups, urgency messaging (“50% OFF”), and benefit-driven headline all combine to increase excitement and conversion. It serves as both a visual sales pitch and lead capture trigger.\n\n# Design Notes:\n\n## Hero Container\n* Full-width section with bold pink background (`background-color: #D94F8E`)\n* Content is center-aligned for maximum focus and impact\n* High visual density concentrated in the center using layered mockups and product previews\n\n## Product Mockup Area\n* Central graphic includes multiple devices (tablet, laptop, phone) and printed materials\n* Mockups are layered with shadows for a 3D, tangible feel (achieved via image stacking and drop shadows)\n* Top-right “50% OFF” burst badge uses radial shape and white all-caps text—likely SVG or PNG overlay\n\n## Heading & Subheading\n* “The Copy Cure” in large serif font with high contrast (white on pink)\n* “Everything You Need…” subheading in smaller serif font, styled with line breaks and centered text\n* Below that, a short description paragraph in a lighter tone (smaller sans-serif)\n\n## Call-to-Action Button\n* Full-width, pill-shaped yellow button (`background-color: #FFF26B`) with dark text\n* Button includes clear, first-person copy: “Yes, I’m Ready! Give Me The Copy Cure for 50% off”\n* Likely uses `hover: brightness(90%)` or slight scale transform on interaction\n\n## Visual Styling & Implementation\n* Use Flexbox or `text-align: center` for vertical and horizontal centering\n* Layered product images placed in a `relative` container, stacked with `z-index`\n* “50% OFF” burst shape created via inline SVG or decorative `clip-path` polygon\n* Button uses generous padding and `border-radius: 999px` for pill shape\n* Responsive considerations: mockups stack vertically on smaller screens, text sizes adjust via media queries",
     "categories": [
       "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-kpz4fjtl",
+    "image": "inspiration/rgpt-KPZ4FJTL.jpg",
+    "prompt": "# Purpose:\nThis section highlights the core value and bonus offerings of an online masterclass tailored to artists and creative entrepreneurs. It’s structured to quickly communicate benefits, reinforce credibility with instructor names, and drive conversions through a low-cost, high-value CTA. For course creators and membership site owners, this layout is ideal for clearly showcasing what’s included and enticing users with strong visual product mockups and bonus materials.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column horizontal layout:\n  - Left: image collage of mockups on various devices\n  - Right: bulleted benefit list and CTA\n* Balanced spacing and vertical alignment between columns ensures clean visual hierarchy\n\n## Product Mockup Area (Left Column)\n* Layered visual assets of course material displayed on laptop, tablet, phone, and print\n* Overlapping layout with slight shadows to give a tangible, 3D product feel\n* Uses red paintbrush texture in background as a decorative element (`position: absolute` or inline SVG)\n\n## Text Content Area (Right Column)\n* Bold section title: “What You Get” in large sans-serif font\n* Primary bullets:\n  - Each line starts with a pink dot bullet\n  - Benefits are written in concise, scannable phrases\n* Bonus Material subheading in bold followed by:\n  - “FREE” callouts in all caps and pink to create urgency and perceived value\n  - Supporting text in regular font weight for contrast\n\n## CTA Button\n* Wide button at bottom of right column\n* Bright pink background with white text\n* Rounded corners with pill styling (`border-radius: 999px`)\n* Text uses urgency and value stacking: “Only $25 Plus Lifetime Access!”\n\n## Visual Styling & Implementation Guidance\n* Use Flexbox or CSS Grid for two-column responsive layout\n* Button hover state can include `box-shadow` or slight scale (`transform: scale(1.03)`)\n* Bullet list styled with `::before` or `<li>` elements with custom `::marker`\n* Image collage should be wrapped in a relatively positioned container for layering\n* Paintbrush background can be implemented via inline SVG or as a positioned PNG with transparency\n* Ensure mockups are `max-width: 100%` and maintain consistent margins between devices",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-kucwezsg",
+    "image": "inspiration/rgpt-KUCWeZSg.jpg",
+    "prompt": "# Purpose:\nThis hero section is designed to quickly capture attention and encourage users to start a 30-day fitness challenge. It combines visual storytelling (video), motivational testimonials, and a clear CTA to convert visitors into participants. Ideal for fitness coaches or course creators, it builds social proof and immediacy, motivating action through community validation and multimedia engagement.\n\n# Design Notes:\n\n## Layout Structure\n* Vertical stack layout with:\n  - Testimonial banner at top\n  - Headline and CTA in middle\n  - Embedded video at the bottom\n* Center-aligned elements with generous vertical spacing\n\n## Top Testimonial Bar\n* Row of three testimonial quotes at the top with 5-star ratings (FontAwesome or inline SVGs)\n* Text is centered and uses italics or quotation marks for clarity\n* Positioned against a dark navy grid background (`background-image: grid lines` or SVG pattern)\n\n## Hero Text & CTA\n* Headline: “30 Days to a Stron|” — uses animated cursor to simulate typing (CSS `::after` animation or JS typing effect)\n* “Stron|” highlighted in bright blue for dynamic emphasis (`#0094FF`)\n* Subheading: One-line sentence in light gray text, supporting headline\n* CTA button:\n  - Bright blue with white text (“Start Your 30 Day Challenge!”)\n  - Rounded corners and hover effect (e.g. `box-shadow` or `transform: scale(1.05)`)\n\n## Social Proof (Below Button)\n* Row of overlapping circular avatars (`border-radius: 50%`, `margin-left: -8px`)\n* “Trusted by 100+ students” text with yellow stars\n* Likely implemented with Flexbox and `align-items: center`\n\n## Embedded Video (Bottom)\n* Large video thumbnail with play button overlaid (light blue circle)\n* Rounded corners (`border-radius`) and subtle border (`border: 2px solid #0094FF`)\n* Play icon centered via `position: absolute` with button hover scale effect\n* Speaker icon in upper-right corner (mute/unmute toggle)\n\n## Background & Styling\n* Dark navy background with grid pattern adds visual structure (`background-image: repeating grid`)\n* Light blue doodle/arrow icon at upper right of video frame adds playfulness (inline SVG or pseudo-element)\n* Use of white and blue text maintains readability and brand cohesion\n\n## Implementation Guidance\n* Use Flexbox for vertical stacking and centered alignment\n* Grid background via `background-image: linear-gradient(...)` or SVG asset\n* Typing cursor effect can be done with CSS animation or JavaScript typing libraries\n* Ensure video is responsive (`max-width: 100%`) and optimized for performance",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-lzrmpell",
+    "image": "inspiration/rgpt-LzrMPElL.jpg",
+    "prompt": "# Purpose:\nThis pricing section is designed to drive subscription conversions by presenting a clear, benefit-stacked comparison between two membership tiers. With a focus on urgency (\"Lock in Your Price Today\") and visual reinforcement of value, it helps coaches and course platform owners highlight key feature differences and guide users toward a high-value decision. The section supports persuasive marketing by showing savings, exclusive features, and limited-time incentives.\n\n# Design Notes:\n\n## Section Header\n* Headline uses serif typography with mixed weight (\"Lock in Your Price Today\") in white for emphasis\n* Subheading in light gray sans-serif offers motivational nudge to act\n* Positioned on a dark gradient background with subtle overlay for contrast\n\n## Pricing Toggle\n* \"Annual / Monthly\" switch is centered and styled as a pill toggle\n* Active selection is visually highlighted with a white fill and darker inactive state\n* Likely implemented using `button group` with conditional classes and `aria-selected` support\n\n## Pricing Cards (Two Columns)\n* Side-by-side card layout using `CSS Grid` or `Flexbox` with spacing between\n* Cards have:\n  - Rounded corners\n  - Dark backgrounds with subtle borders or shadows\n  - Consistent internal padding and vertical spacing\n\n### Self Development Plan (Left Card)\n* $42/month, billed annually, with “SAVE 14%” badge in green\n* List of features with checkmarks (FontAwesome or inline SVG)\n* Inaccessible features shown with strikethrough text and dimmed color\n* CTA button:\n  - Rounded yellow gradient with full width\n  - Text: “Join Campus Today”\n  - Below it: subtle note (\"Lock-in your price before it goes up\")\n\n### Millionaire Blueprints Plan (Right Card)\n* $59/month, billed annually, “SAVE 15%” badge and “BEST VALUE” tag in yellow pill\n* Same styling structure as left card, but includes all features with active checkmarks\n* Extra CTA reinforcement through placement of “BEST VALUE” badge (absolutely positioned or top-right `div`)\n* Slight glow or gradient on background to add visual emphasis\n\n## Visual Styling & Implementation\n* Use `box-shadow`, `border-radius`, and `linear-gradient` for button styling\n* Checkmark list built with flex alignment and spacing between icon and text\n* Responsive: Stack cards vertically with margin between on smaller viewports\n* Use `transform: scale()` or `hover: brightness()` for button interactions\n* Accessibility: ensure toggle and button states are keyboard-navigable",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-mgodasem",
+    "image": "inspiration/rgpt-Mgodasem.jpg",
+    "prompt": "# Purpose:\nThis section highlights the core differentiators of an educational platform in a clear, minimal layout designed to build trust and communicate benefits quickly. It's ideal for online course creators and membership site owners who want to emphasize outcomes, accessibility, and personalized learning. The icon-and-text format allows visitors to scan benefits easily, reinforcing credibility and encouraging engagement.\n\n# Design Notes:\n\n## Section Heading\n* Centered headline uses bold sans-serif font (“The Better Way to Learn”)\n* Small purple pill-shaped pre-heading (“We’re Different”) provides context with soft visual contrast\n* Subheadline omitted for simplicity—focus remains on the main title\n\n## Grid Layout of Features\n* 2-row, 3-column grid with equal spacing between cards\n* Each card includes:\n  - A minimal line-style icon (likely SVG or icon font)\n  - Bold heading in black\n  - Supporting paragraph in gray, smaller font\n* Uniform vertical spacing between icon, heading, and text\n* Icons are black with consistent line weight and padding\n\n## Feature Highlights\n* Top Row:\n  - **Expert Instructors:** Focus on real-world, practical instruction\n  - **Real Practice:** Emphasis on conversational learning\n  - **Custom Learning:** Adaptive learning paths for all levels\n* Bottom Row:\n  - **Proven Success:** Social proof via 5,000+ students\n  - **Community Support:** Peer-based interaction and feedback\n  - **Anytime Access:** Flexible, self-paced learning on any schedule\n\n## Visual Styling & Implementation\n* Use `CSS Grid` with `grid-template-columns: repeat(3, 1fr)` and `gap`\n* Icons likely inserted via inline `<svg>` with `stroke-width: 1.5px`\n* Headings use `font-weight: 600–700`; subtext around `400`\n* Responsive: stack into 2 columns or single column on mobile\n* Background is white for clean and modern feel, with ample margin and padding",
+    "categories": [
+      "Features",
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-mkakfqw5",
+    "image": "inspiration/rgpt-MkAkfQW5.jpg",
+    "prompt": "# Purpose:\nThis section introduces the platform's mission and capabilities in delivering simplified IT education for a broad audience. It appeals to learners across experience levels by emphasizing clarity, expert-led instruction, and credential opportunities. For course creators and educational business owners, this layout builds credibility while encouraging exploration through key metrics and strong calls to action.\n\n# Design Notes:\n\n## Section Layout\n* Two-column layout:\n  - Left: headline, image\n  - Right: supporting text, stats, CTA buttons\n* Uses Flexbox or CSS Grid for balanced alignment and responsive stacking on smaller screens\n\n## Heading & Subheading\n* “IT Skills Simplified for Every Learner” in bold black sans-serif font\n* Light purple “About us” tag above the heading for context\n* Subheading paragraph uses a light gray sans-serif font for explanation and clarity\n\n## Image Block (Left)\n* Rounded corner image of learner with headphones and tablet\n* Sized to align vertically with the right column’s stat grid\n* Responsive handling with `object-fit: cover` and padding below on mobile view\n\n## Statistic Grid (Right)\n* Four stat cards arranged in 2x2 grid:\n  - Each card has a white background with soft drop shadow and large bold numeral\n  - Secondary label below numeral in smaller gray text\n* Cards use `border-radius` and `padding`, implemented via `CSS Grid` or Flexbox with gap\n* Cards are likely `<div>`s styled as tiles for semantic flexibility\n\n## Call-to-Action Buttons\n* Two horizontal buttons:\n  - “Explore courses”: solid black background, white text\n  - “Contact us”: white background with black border and text\n* Both use pill-shaped styling (`border-radius: 999px`) with equal padding\n* Positioned beneath the stat grid with `gap` or `margin-top`\n\n## Visual Styling & Implementation\n* Background includes soft gradient on right side (pink/blue) using `radial-gradient` or SVG blob\n* Typography hierarchy clearly defined via size and weight\n* Ensure hover states:\n  - Solid button: darkens or lifts on hover\n  - Outline button: fills or changes border thickness\n* Section likely wrapped in `max-width` container with center alignment",
+    "categories": [
+      "Features",
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-oasepatz",
+    "image": "inspiration/rgpt-OAsepaTZ.jpg",
+    "prompt": "# Purpose:\nThis empathy-driven section is crafted to emotionally connect with the target audience by reflecting their internal struggles and frustrations. For course creators and coaches, it’s a high-conversion copywriting pattern that builds trust and primes the user for a solution pitch. It reinforces the idea that the user is not alone, which reduces resistance and increases the likelihood of engagement.\n\n# Design Notes:\n\n## Section Structure\n* Grid layout with 2 columns of testimonial-style pain point quotes\n* Each quote inside a light gray rounded card with subtle padding\n* Grid uses `CSS Grid` or `Flexbox` with `gap` between cards for clean separation\n\n## Headline & Footer Copy\n* Top heading: “Does this sound like you?” in large serif font, centered, black\n  - Draws reader in with conversational tone and direct empathy\n* Footer subtext: “it’s not just you!” in cursive pink font (`font-family: script` or custom), centered\n  - Emotional reassurance using handwritten style for warmth\n\n## Quote Cards\n* Each card features a short emotional user quote\n* Key emotional words are bolded or highlighted in color:\n  - Yellow for doubt/self-criticism (e.g. “I’m doing wrong”)\n  - Bold black for internal emphasis (e.g. “everything gets lost.”)\n* Typography:\n  - Body text: neutral sans-serif, slightly larger line height for readability\n  - Emphasis text uses `font-weight: 600` or highlight color for contrast\n\n## Visual Styling & Implementation\n* Light gray card background (`#F9F9F9` or `#F3F3F3`)\n* Cards use `border-radius: 12px` and `padding: 20px`\n* Quotes may use `blockquote` or styled `<p>` inside card containers\n* Responsive layout stacks into a single column on mobile with uniform margins\n\n## Interaction Notes\n* This section is static, but benefits from animation:\n  - Optional fade-in scroll animation via `AOS.js` or CSS `@keyframes`\n* Script-style footer message can be implemented using a Google Font like \"Dancing Script\" or \"Pacifico\"",
+    "categories": [
+      "Content",
+      "Sound like you"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-ppoxcbgp",
+    "image": "inspiration/rgpt-PPOXcbgp.jpg",
+    "prompt": "# Purpose:\nThis section functions as a trust-building strip by displaying logos of reputable or fictional industry partners that have featured or endorsed the course platform. For instructors and membership site owners, this type of visual affirmation helps reduce skepticism and adds credibility—especially useful for conversion on landing pages or sales funnels. It supports social validation through association.\n\n# Design Notes:\n\n## Logo Strip\n* Horizontally aligned logo list centered on the page\n* Uses equal vertical spacing above and below to visually isolate the strip\n* Logos are desaturated or neutral colored, maintaining a clean, uniform aesthetic\n* Text above logos is small and centered (\"Featured by popular companies...\") in muted black/gray\n\n## Layout and Alignment\n* Logos spaced evenly via `Flexbox` with `justify-content: space-around` or `space-between`\n* Responsive behavior: logos wrap into multiple lines on small screens with even horizontal gaps\n* Minimum padding between logos ensures no overlap or visual crowding\n\n## Visual Styling\n* All logos sized to consistent height using `max-height` constraint (e.g., `max-height: 40px`)\n* Logos on transparent or white background, allowing them to sit cleanly against white or light section\n* Optional grayscale filter on logos (`filter: grayscale(100%)`) with hover color transition for interactivity\n\n## Implementation Guidance\n* Use an image sprite or inline SVGs for optimization if logos are static\n* If animated or hover-interactive, use `CSS transitions` on `filter`, `opacity`, or `scale`\n* Place this strip just before or after high-conversion CTAs to lend social proof near key action points",
+    "categories": [
+      "Logos"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-pgmpo9ld",
+    "image": "inspiration/rgpt-PgmpO9lD.jpg",
+    "prompt": "# Purpose:\nThis section is built to clearly demonstrate outcomes for course participants, reinforcing value and motivating purchase decisions. It addresses core pain points of online course creators—efficiency, confidence, and ethical selling—making it a persuasive tool for conversions. The use of testimonial with strong numerical results enhances social proof and emphasizes the program’s effectiveness.\n\n# Design Notes:\n\n## Benefits Overview\n* Two-column layout using `CSS Grid` or `Flexbox` with equal-width responsive columns\n* Each benefit has a bolded subheading using italic serif font for emphasis and distinction\n* Supporting text in regular sans-serif for legibility and contrast\n* Red/pink iconography beside each title using inline SVGs or icon fonts (e.g., FontAwesome with custom color override)\n* Icons and text aligned left, creating vertical rhythm and clarity\n\n## Testimonial Section\n* Wide full-width container with soft cream background and rounded corners (`border-radius: 16px; background-color: #FFF6F0`)\n* Quote styled in vibrant pink to match brand color (likely `#EF3E6E` or similar)\n* Testimonial body uses standard body font for authenticity\n* Circular cropped testimonial image on the right (`border-radius: 50%` with consistent padding)\n* Name and role styled in uppercase with smaller, muted text\n\n## Spacing and Hierarchy\n* Generous vertical padding between main title, benefits, and testimonial\n* Consistent spacing between each benefit item (~1.5 line height)\n* Balanced left/right margin between text and image in testimonial section\n\n## Implementation Guidance\n* Use `CSS Grid` with `grid-template-columns: 1fr 1fr` for benefit pairing\n* Icons can be SVG components with `fill: #E84A78` or styled using `font-size: 1.5rem`\n* Use `max-width` containers to limit line length for optimal readability\n* Apply `box-shadow` or light border to testimonial container for soft emphasis",
+    "categories": [
+      "Content",
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-plbnrj86",
+    "image": "inspiration/rgpt-PlBnRJ86.jpg",
+    "prompt": "# Purpose:\nThis testimonial section is designed to build trust and credibility by showcasing real student success stories. For online course instructors and membership site owners, it functions as high-conversion social proof. Featuring both visuals and quotes, this layout humanizes the brand and reassures potential customers that the program delivers tangible results—making it a vital part of a funnel aiming to increase enrollment.\n\n# Design Notes:\n\n## Section Layout\n* Two-column responsive grid (`CSS Grid` or `Flexbox`) with equal-width testimonial cards\n* Top section features centered heading and subheading with large font for emphasis\n* Each testimonial block aligns image left, quote right (or stacked vertically on smaller screens)\n* Rounded corners on all cards (`border-radius: 16px`) for a modern, friendly aesthetic\n\n## Testimonial Cards\n* Each card includes:\n  - Left-aligned circular or rounded image (auto-fit height)\n  - White text on dark background (`#FFFFFF` on `#1A1A1A` or `#111111`)\n  - Quote in larger font with line spacing for readability\n  - Attribution in smaller, muted gray text below the quote\n\n* Hover effects or carousel arrows (`FontAwesome` or SVG icons) indicate more testimonials can be browsed\n* Right-hand card has a subtle fade to indicate horizontal scroll or carousel continuation\n\n## Visual Styling\n* Background uses dark mode theme with subtle radial or linear gradient behind cards\n* Slight box shadows or inner glows (`box-shadow: 0 4px 20px rgba(0,0,0,0.4)`) to lift cards off the background\n* Quote marks implied via padding/margins, not graphic elements—minimalist styling\n\n## Implementation Guidance\n* Use `CSS Scroll Snap` or `Swiper.js` to enable smooth side-scroll or slider navigation\n* For mobile, stack cards vertically and maintain large tappable area for interaction\n* Use CSS transitions for hover/click effects on cards or arrow buttons",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-pxghudlj",
+    "image": "inspiration/rgpt-PxGHUDlJ.jpg",
+    "prompt": "# Purpose:\nThis section communicates the core values behind the learning platform, which helps build trust and alignment with course creators, coaches, and membership site owners. By clearly stating educational principles such as quality, accessibility, and growth, it reassures prospective users that the platform is mission-driven and learner-focused. This builds emotional resonance and appeals to values-based purchasing decisions, which is especially important in education and coaching contexts.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column layout using `Flexbox` or `CSS Grid`\n* Left column contains a stylized illustration inside a rounded-corner card\n* Right column stacks three value statements vertically with aligned icons and headings\n\n## Key Visual Elements\n* Custom illustration with hand-drawn style and thematic icons (lightbulb, rocket, pencil)\n* Numbered icons use minimalist outlined circles for sequence: `1`, `2`, `3`\n* Headings are bold, black (`font-weight: 600–700`), and use a larger font size than body text\n* Descriptions are muted gray and wrapped under each heading for compactness\n\n## Spacing and Positioning\n* Equal vertical spacing between value blocks for visual balance\n* Adequate left margin on value list to balance illustration width\n* Icon–heading–text stack is left-aligned with consistent gutter spacing\n\n## Visual Styling\n* Clean white background with subtle card fill behind illustration (`#f9f9fb` or very light gray)\n* Slight rounding on image container corners (`border-radius: 1rem`)\n* Section badge “Core Principles” styled as a pill tag in pastel purple (`#cbb5fd` or similar)\n\n## Implementation Guidance\n* Layout: `CSS Flexbox` with `gap: 2rem` or `grid-template-columns: 1fr 1fr` for left/right content\n* Numbered icons: Circle text elements with `border: 2px solid #000`, `border-radius: 50%`, and `font-weight: bold`\n* Illustration area: `img` or `inline SVG`, centered within a padded container\n* Ensure the section is responsive by stacking image above text on mobile with `flex-direction: column-reverse`",
+    "categories": [
+      "Features",
+      "Content",
+      "Checklist"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qlrgexn0",
+    "image": "inspiration/rgpt-QLrgeXn0.jpg",
+    "prompt": "# Purpose:\nThis section serves as a high-conversion promotional banner for a video content creation bootcamp, tailored to coaches and online educators looking to grow their influence through mobile-friendly video strategies. It builds urgency and excitement with a compelling headline, trust-building visuals of the instructor, and strong value-based pricing. The offer empowers course creators to take action quickly, making video creation accessible and unintimidating—key for increasing user-generated content and community engagement within a membership platform.\n\n# Design Notes:\n\n## Hero Section\n* Bold, centered headline with dual-tone emphasis: core phrase in dark pink, italics in purple-pink for emotional impact\n* Subheadline above in smaller serif font adds context without clutter\n* Uses `text-align: center` with large line-height for easy readability\n* Font styling mixes bold sans-serif (`font-weight: 700`) with italic serif (for emphasis) using `<em>` or `span class`\n\n## Video & Mockup Area\n* Left-aligned embedded video thumbnail framed in a soft card with light drop shadow\n* Right-aligned collage of course device mockups (tablet, laptop, mobile, etc.)\n* Use `Flexbox` with `align-items: center` and `gap` for side-by-side layout\n\n## CTA Area\n* Prominent green button with icon on left (camera emoji or FontAwesome `fa-video`)\n* Full-width button with rounded corners and soft shadow, contrasting teal background (`#00bfa6`) and white text\n* Button text includes urgency (“Instant Lifetime Access”) and price clarity\n\n## Pricing Banner\n* Bottom banner with high-contrast background (`#ec5990`) and white bold price copy\n* Strikethrough on original price using `<del>` or `text-decoration: line-through`\n* “Just $27 Today” emphasized with handwritten-style underline (SVG or `::after` element)\n\n## Visual Styling\n* Bright pink/purple color palette aimed at female entrepreneur audience (`#ec5990`, `#ff69b4`, `#ffd1e3`)\n* Rounded corners on all modules and cards (`border-radius: 1rem`)\n* Subtle box shadows (`box-shadow: 0 8px 24px rgba(0,0,0,0.08)`) for depth\n\n## Implementation Guidance\n* Use CSS `grid-template-columns: 1fr 1fr` for main content split\n* Implement video embed with responsive container (`aspect-ratio: 16 / 9`)\n* Price callout can use `position: relative` with `::after` pseudo-element to add brush stroke underline (SVG path or custom background image)\n* Responsive layout stacks vertically on mobile using media queries and adjusts padding",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qt21grz8",
+    "image": "inspiration/rgpt-QT21grz8.jpg",
+    "prompt": "# Purpose:\nThis membership pricing section promotes a recurring subscription model for online course creators and coaching platforms, designed to increase long-term customer value through ongoing access to premium resources. It emphasizes convenience and exclusivity to boost conversion rates among committed learners. For instructors or membership site owners, this layout presents a compelling offer that highlights the breadth of access, encourages engagement through community perks, and fosters retention with fresh content delivery.\n\n# Design Notes:\n\n## Header Section\n* Bold headline with large font size and dual-line structure for emphasis\n* Subtitle centered beneath headline with reduced opacity (`opacity: 0.6`) for subtle hierarchy\n* Section label \"Membership\" in light purple (`#A362E6`), small caps, using `font-weight: 500`\n\n## Membership Card\n* Centered box with white background and soft gradient border (`border: 1px solid transparent; background: white; border-radius: 14px`)\n* Outer border uses a subtle purple-pink gradient via `border-image: linear-gradient(to right, #A362E6, #DD6BD7) 1`\n* Shadowed card (`box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05)`) gives visual elevation\n\n## Content Structure\n* Header \"Membership\" in bold, left-aligned\n* Price ($49/month) aligned right using `display: flex; justify-content: space-between; align-items: center`\n* Divider line below header using `border-top: 1px solid #E5E7EB`\n\n## Feature List\n* Bulleted list of 6 benefits, each with a purple checkmark icon (`✔️`) using `list-style: none` and `::before` or inline SVG\n* Icon color matches theme purple (`#A362E6`)\n* Each item has consistent spacing (`margin-bottom: 0.75rem`), text slightly indented\n\n## Call-to-Action Button\n* Rounded black button (`background: #000; color: #fff; border-radius: 9999px`)\n* Button label: “Buy Membership” with hover state that may use subtle scaling or background color transition (`transform: scale(1.03)` on hover)\n\n## Background & Effects\n* Abstract blurred triangle shapes in blue and purple positioned via absolute/fixed elements in the background\n* CSS blur filters (`filter: blur(40px)`) applied to soft, glowing gradients for atmospheric depth\n* Use of `z-index: -1` ensures background stays behind content\n\n## Responsive Guidance\n* Card and headline centered using `flex-direction: column; align-items: center`\n* Padding around card scales on smaller screens (`padding: 2rem 1.5rem`)\n* Consider stacking price below headline on narrow viewports with `flex-wrap: wrap` behavior",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qweyrdtp",
+    "image": "inspiration/rgpt-QweYrdTP.jpg",
+    "prompt": "# Purpose:\nThis section is designed to communicate the core learning outcomes of an art course, specifically targeting creators interested in acrylic techniques. It effectively builds trust and excitement by outlining tangible skill development, while also highlighting unique value propositions like style improvement and faster sales. This benefits course creators by preemptively answering questions about content quality and differentiation, thereby increasing conversions and minimizing drop-off from undecided users.\n\n# Design Notes:\n\n## Intro Heading Section\n* Section tag \"From Beginner to Advanced\" in bright pink (`#F73C7A`) with small caps style and center alignment\n* Bold headline \"What You Will Learn\" in black with large font-size and tight line-height\n* Supporting paragraph is full-width, center-aligned with medium font weight and soft word spacing for readability\n\n## Feature Grid (4 Columns)\n* Layout uses a four-column grid (`CSS Grid` or `Flexbox with wrap`) on desktop, stacked layout on mobile\n* Each column is vertically centered with icon, title, and description\n* Even padding and margin between items (`gap: 2rem`) to balance content\n\n## Icons\n* Flat outline icons in matching pink tone (#F73C7A), visually consistent across all four points\n* Icons are approximately 48x48px and centered above each heading\n* SVG icons likely used for scalability and theme control (consider inline SVG for color customization)\n\n## Typography\n* Subheadings (e.g. \"BEAUTIFY ACRYLICS\") in all caps, bold (`font-weight: 700`)\n* Descriptions below in regular sentence case, centered with consistent width control (via `max-width: 220px`)\n* Spacing between headings and descriptions is uniform, approximately 0.5rem\n\n## Implementation Guidance\n* Use `grid-template-columns: repeat(auto-fit, minmax(220px, 1fr))` for responsiveness\n* Ensure icons and headings are consistently aligned using `flex-direction: column; align-items: center`\n* Icons can be styled via `fill: currentColor` for easier theming\n* Apply `margin-top` to paragraph blocks to create visual rhythm below each heading\n\n## Visual Styling\n* Overall clean white background for high contrast\n* Icon and accent color is consistently pink (#F73C7A) across all elements\n* No card borders or background boxes—rely on spacing and icon anchoring for separation",
+    "categories": [
+      "Features",
+      "Content",
+      "Icon Cards"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qypuzio1",
+    "image": "inspiration/rgpt-QyPUzIo1.jpg",
+    "prompt": "# Purpose:\nThis section acts as a high-impact, urgency-driven hero banner designed to convert visitors by emphasizing the financial value of copywriting. It is especially effective for course creators and coaches looking to market their program’s ROI with social proof, time-sensitive discounts, and bold headlines. The strategic combination of a countdown timer and a strong monetary claim builds trust and encourages immediate action, helping maximize conversions during a promotional window.\n\n# Design Notes:\n\n## Hero Section (Main Headline)\n* Large, bold, all-caps serif heading \"WRITE WORDS THAT MAKE YOU MONEY\" centered on the page\n* Supporting subhead in regular weight above, smaller, with generous letter-spacing\n* Emphasized claim: “$100 million in student revenue” in bold within a muted sans-serif line\n\n## Visual Styling\n* Background gradient from pale pink (#FEE9F1) to soft pastel yellow (#FFF4D9)\n* Pink underline decoration below testimonial quote (likely `border-bottom` or SVG)\n* High-contrast black text over pastel background improves readability\n\n## Call to Action (CTA)\n* Pink CTA button (\"Get The Copy Cure for 50% OFF Now\") with pill-shaped border-radius (`border-radius: 9999px`)\n* White text on vibrant pink background (#EA4B8A) with subtle drop shadow for emphasis\n* Centered below body text with margin-top for spacing\n\n## Countdown Bar\n* Sticky announcement bar at top using full-width yellow background (#FFEB3B)\n* Countdown timer with hours/minutes/seconds shown in bold with monospaced styling\n* Right-aligned “Claim My Discount” button in magenta-pink with border-radius\n* Flexbox used for spacing between timer and CTA (`justify-content: space-between`)\n\n## Layout and Spacing\n* Content is center-aligned within a max-width container (`max-width: 720px; margin: 0 auto`)\n* Generous vertical padding (`padding: 4rem 1rem`) to make the hero section feel breathable and prominent\n\n## Implementation Guidance\n* Use CSS linear gradient background (`background: linear-gradient(to bottom, #fee9f1, #fff4d9)`)\n* Countdown timer likely built with JavaScript and styled using Flexbox (`display: flex; gap: 1rem`)\n* CTA buttons can use hover transitions (`transition: all 0.3s ease`) for subtle scale or color shifts\n* Consider adding aria-live region for countdown accessibility",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-reycxfhv",
+    "image": "inspiration/rgpt-REycXfHV.jpg",
+    "prompt": "# Purpose:\nThis section introduces Module 1 of a copywriting course, aimed at helping coaches and creators improve their messaging to boost conversions. It focuses on developing a clear, emotionally resonant communication style that connects with potential customers. By breaking down psychological triggers and offering practical writing tools, this module equips users to craft persuasive, high-impact copy that drives client engagement and increases revenue quickly—an essential skill for business growth in digital learning environments.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column layout: left side contains visual product imagery; right side lists module content in bullet points\n* Hero-like top with module label (\"Module 1\") using a folder tab visual—achieved with `::before` pseudo-element or SVG shape\n* Bottom testimonial spans full width for emphasis, acting as social proof reinforcement\n\n## Key Visual Elements\n* Product mockups (workbook, video screens, and ebook) arranged in perspective with slight drop shadows for depth\n* Checklist area uses checkmark icons (likely FontAwesome or SVG) in pink to reinforce learning points\n* Star rating and circular avatar photo in testimonial for added credibility\n\n## Spacing and Positioning\n* Consistent padding between sections, approximately 2–3x font size\n* Right content column aligned top with left visuals, separated by generous whitespace\n* Quote styled larger and centered at bottom with testimonial avatar placed directly underneath\n\n## Interactive Elements\n* None active in this static section, but potential interactive hotspots could include image zoom or expandable lesson points\n\n## Visual Styling\n* Warm yellow background with rounded corners and soft box-shadow to separate it from page background\n* Pink highlight color (#ED4F8E or similar) used consistently in heading, checklist, and module label\n* Serif font for testimonial quote creates emotional, story-driven tone\n* Gradient button styling used on other parts of the site could be extended here\n\n## Implementation Guidance\n* Use CSS Flexbox or Grid (`grid-template-columns: 1fr 1fr`) to structure the module layout\n* Checklist area can use `ul` with `list-style: none` and `::before` icons or inline `<svg>`\n* For corner tab on module label, use a custom-shaped `clip-path` or `border-radius`/`transform` with background color\n* Image stack could be implemented with absolute positioning inside a relative container for overlap effects\n* Consider mobile stacking: left image becomes top, followed by right content for responsive design",
+    "categories": [
+      "Modules"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-rjqpidv7",
+    "image": "inspiration/rgpt-RJQpIdv7.jpg",
+    "prompt": "# Purpose:\nThis pricing section is designed to drive conversions by clearly presenting two purchase options—Lite and Pro—for a 30-day fitness challenge. It simplifies decision-making for potential buyers by using a side-by-side comparison format that highlights added value in the premium tier. This strategy is effective for coaches and course creators seeking to boost average order value, offer scalable self-serve access, and upsell personalized coaching to more motivated clients.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column grid layout comparing Lite and Pro plans\n* Aligned headings, pricing, and CTA buttons for visual symmetry\n* Centered title section above with bold headline and testimonial badge cluster\n\n## Key Visual Elements\n* Pricing cards use white backgrounds with light blue border accents\n* Plan names (\"Lite\" and \"Pro\") styled with blue highlights to draw distinction\n* Checkmarks used consistently for included features (blue) and excluded ones (gray/strikethrough)\n* CTA buttons use consistent full-width layout with bright blue fill\n\n## Spacing and Positioning\n* Equal vertical spacing between features within each card\n* Pricing is bold and large to quickly capture attention\n* Group of student avatars and 5-star rating centered beneath heading builds trust\n\n## Interactive Elements\n* CTA buttons (\"Start Your 30 Day Challenge!\") likely link to checkout or signup pages\n* Cards may include hover elevation effect (e.g., `box-shadow` on hover)\n\n## Visual Styling\n* Soft blue theme communicates trust and calmness, consistent with health/wellness focus\n* Border radius on cards and buttons (`border-radius: 1rem`)\n* Icons use consistent line style, likely SVG or FontAwesome\n\n## Implementation Guidance\n* Use `CSS Grid` or `Flexbox` for responsive side-by-side pricing cards\n* Maintain consistent padding (`p-6` to `p-8`) inside cards for clarity\n* Use utility-first CSS or Tailwind classes for hover effects (`hover:shadow-xl`, `transition`)\n* For excluded items, apply `text-gray-400` + `line-through` styling",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-sxjyxaew",
+    "image": "inspiration/rgpt-SXJYXaEW.jpg",
+    "prompt": "# Purpose:\nThis curriculum section introduces the core structure and time investment of a video editing course, helping prospective students evaluate its scope and credibility. For course creators and membership site owners, this section builds authority and sets expectations by showcasing the depth of the training. Highlighting the number of videos and hours upfront helps drive conversions by showing tangible value, while the design conveys professionalism and clarity.\n\n# Design Notes:\n\n## Curriculum Header\n* Large, bold headline with mixed color emphasis (\"build skills\" and \"launch your career\" in orange) — implement using `<span>` with a `text-orange-500` class for color contrast\n* Sans-serif font with high legibility and generous line spacing for clarity\n* Responsive text hierarchy — scales well across breakpoints\n\n## Chapter Breakdown Section\n* Small caps for metadata (\"CHAPTER 1\", \"84 VIDEOS\", \"28 HOURS\") — can use `text-xs uppercase tracking-wider text-gray-400`\n* Title of the chapter in large, clean font — consistent with H2 styling\n* Supporting paragraph in muted gray for low contrast but readable explanatory content\n\n## Visual Integration\n* Right-aligned image in rounded-corner container with subtle shadow\n* Image shows a realistic workspace — reinforces relatability for online learners\n* Suggested layout: `CSS Flexbox` or `CSS Grid` with `grid-template-columns: 1fr 1fr` for text and image side-by-side\n\n## Visual Styling\n* Dark background (`#000` or `#111`) with high contrast white/orange typography\n* Highlight color (`#F9A825` or similar warm amber) used sparingly for conversion-driving phrases\n* Padding and white space help focus the viewer’s eye on key messages\n\n## Implementation Guidance\n* Use `clamp()` in CSS for responsive font sizes on headline\n* Use `Flexbox` or `Grid` to switch from side-by-side (desktop) to stacked layout (mobile)\n* Add scroll animations (e.g., fade-in or slide-in) using `IntersectionObserver` or libraries like `AOS.js`\n* Ensure good color contrast for accessibility (especially on black background)",
+    "categories": [
+      "Modules"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-srpgvkuv",
+    "image": "inspiration/rgpt-SrpgVKuv.jpg",
+    "prompt": "# Purpose:\nThis section is designed to build trust and credibility with potential students by highlighting the value proposition of the course platform. It features a central instructor bio card supported by key benefits that matter to online learners—such as certificates, networking, and expert guidance. For course creators or coaches, this pattern reinforces brand authority, emphasizes the instructor's expertise, and showcases tangible student outcomes that help boost enrollment conversions.\n\n# Design Notes:\n\n## Instructor Bio Section (Center Card)\n* Center-aligned card with rounded corners and soft drop shadow\n* Headshot with consistent aspect ratio and top padding for spacing\n* Typography hierarchy includes bold subheadings (e.g., “I started my journey”) and smaller body text for personal narrative\n* Social media icons (LinkedIn, Twitter, GitHub) styled with monochrome hover states—likely SVGs or FontAwesome\n* Stylized instructor signature graphic for credibility and personality\n\n## Key Benefits (Four Icon-Text Pairs)\n* Four benefits in a 2x2 grid surrounding the bio card using a symmetrical layout\n* Icons styled in minimal pastel hues (lavender/blue tint) within soft-rounded square backgrounds\n* Titles in bold black font with descriptive text beneath in smaller, muted gray text\n* Spacing between elements is even and breathing room around each section preserves clarity\n\n## Spacing and Positioning\n* Margins and padding create a balanced and open feel\n* Central card uses more visual weight to draw focus, while side content supports it in a non-distracting way\n* Grid-like alignment ensures responsive stacking on smaller screens\n\n## Visual Styling\n* Background is a soft radial blend of white and subtle pastel gradients (lavender/blue)—achievable with `radial-gradient()` in CSS\n* Consistent rounded corners across all containers and icons for a unified design language\n* Box shadows used lightly on the center card for elevation without harsh contrast\n\n## Implementation Guidance\n* Use `CSS Grid` or `Flexbox` for responsive 2x2 layout with centered card\n* Icons can be implemented with `inline SVGs` or via icon libraries with hover animation using `transform: scale()` or color shift\n* Soft gradient background applied to section container using `background: radial-gradient(...)`\n* Typography styled via utility classes or variables to maintain spacing consistency (e.g., heading margin-bottom, paragraph line-height)",
+    "categories": [
+      "Instructor"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-tn4l7gyk",
+    "image": "inspiration/rgpt-Tn4L7GyK.jpg",
+    "prompt": "# Purpose:\nThis instructor spotlight section builds credibility and trust for online course creators by showcasing the expertise and track record of the instructor. For prospective students, it humanizes the learning experience and reinforces that the guidance they’ll receive is grounded in real-world results. Highlighting specific achievements makes the instructor relatable yet authoritative, which helps improve conversion rates and establishes the course as a premium offering.\n\n# Design Notes:\n\n## Quote Header\n* Centered large serif quote with italic styling — signals inspiration and credibility\n* Use `font-style: italic` with a responsive heading size (`text-xl md:text-2xl`)\n* White text on dark background maximizes contrast and visual hierarchy\n\n## Instructor Bio Section\n* Two-column layout: text on left, image on right — ideal for `CSS Grid` or `Flexbox` with `gap-x-8`\n* Text block in soft gray rounded card — use `border-radius: xl`, `bg-gray-800`, and `p-6` for comfort\n* Signature font for instructor name adds personality — consider Google Fonts like \"Dancing Script\" or a handwritten-style web font\n* Rounded image with subtle shadow — `object-cover`, `rounded-xl`, `shadow-md`\n\n## Achievements Row\n* Three evenly spaced stats with icons — built using `Grid` or `Flexbox`, use `gap-4` or `space-x-8`\n* Icons use consistent stroke weight and size — likely SVGs or FontAwesome\n* Text stack: short title + 2-line explanation in smaller font\n* Divider lines help create visual boundaries between columns — use `border-gray-600` with `opacity-30`\n\n## Visual Styling\n* Dark theme overall (`bg-[#111]` or similar)\n* Soft card-style modules to separate content blocks\n* Headings and icons in light text for readability\n* Consistent padding around all elements to ensure breathing room\n\n## Implementation Guidance\n* Use `minmax(0, 1fr)` columns in CSS Grid for responsive instructor layout\n* Apply `@media` breakpoints to stack content vertically on smaller screens\n* Use semantic `<section>` and `<figure>` elements for accessibility and structure\n* Icons can be inline SVG or pulled from a consistent set (e.g., Heroicons)",
+    "categories": [
+      "Instructor"
     ],
     "video": ""
   },
@@ -761,99 +688,255 @@
     "video": ""
   },
   {
-    "id": "pricing-sections-01_awz",
-    "image": "pricing-sections/01_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a pricing section which is really just for one price so it shouldn't say pick a plan. If you say something else, but in the left-hand column, we have a heading, followed by subheading, which is bolded, followed by a paragraph. This is to describe the plan on the right hand side we have a card which has rounded corners and a drop shadow. We want the card to have a heading above a list of features. Each of the features will have an icon checkmark icon, followed by some text. The background of that feature list should be transparent so it picks up the background of the section below the featured list. We have a another section of the card which has a solid white color background in that section. We have some text to indicate the pla name the subheading, and also some pricing information followed by a button. The section itself should have a subtle CSS gradient blob in the background of the section so that it adds a little bit of dimension to the page",
+    "id": "inspiration-rgpt-kni7asfy",
+    "image": "inspiration/rgpt-kNi7AsfY.jpg",
+    "prompt": "# Purpose:\nThis section reinforces the core value proposition of a 30-day challenge product or program by blending testimonials, behavioral psychology, and a clear step-by-step roadmap. It’s tailored to course creators, coaches, or wellness program owners who want to motivate user engagement through structured habits. The combination of success stories, a persuasive narrative, and a simplified 3-step framework increases credibility, builds trust, and reduces friction for user onboarding and course adherence.\n\n# Design Notes:\n\n## Testimonial Carousel (Top Row)\n* Horizontally scrollable row of testimonial cards (4 visible at once)\n* Each card includes:\n  - 5-star icons (FontAwesome or inline SVG)\n  - Quote text in centered layout\n  - Avatar image and name in footer\n* Card design:\n  - White background with soft shadows and `border-radius`\n  - Equal padding and consistent card width\n  - Likely `overflow-x: scroll` on small screens, `CSS Grid` or `Flexbox` on desktop\n\n## Main Messaging Block (Middle Section)\n* Bold headline with key phrase highlighted in bright blue (`#0094FF`)\n  - Uses two-line structure for rhythm and emphasis\n* Supporting paragraph text uses mixed font weights for emphasis:\n  - Key phrases in **bold**\n  - Important pain points italicized or emphasized with font-weight contrast\n* Blue arrow graphic is inline SVG or absolutely positioned image pointing at headline\n\n## Steps Section (Bottom)\n* Three columns: Step 1, Step 2, Step 3\n* Each step card includes:\n  - Icon at top (FontAwesome or simple SVG) in light blue\n  - Step title in bold, dark text\n  - Description with selective bold/italic for emphasis\n* Card styling:\n  - White background, thin blue border (`border: 1px solid #E0F0FF`)\n  - Rounded corners and consistent vertical padding\n  - Use of blue callouts in text enhances hierarchy\n\n## Styling & Implementation Guidance\n* Use `CSS Grid` for 3-step layout; fallback to vertical stack on mobile\n* Testimonial carousel can use `scroll-snap` for smoother interaction\n* Headline with split-color styling via `<span style=\"color:#0094FF\">`\n* Arrow graphic can be `position: absolute` or part of an SVG with responsive scaling\n* Consistent margin-bottom spacing across sections maintains flow",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-kvioascn",
+    "image": "inspiration/rgpt-kvIOAScn.jpg",
+    "prompt": "# Purpose:\nThis section introduces a modern, mentor-driven coaching platform that blends online learning with personal guidance. It targets creators, coaches, and educators aiming to scale their impact through personalized support and interactive teaching methods. The design balances visual storytelling and trust-building to increase engagement and conversions—especially for programs built around 1-on-1 mentorship or community-led education.\n\n# Design Notes:\n\n## Section Heading\n* Headline uses serif font in white for elegance and professionalism\n* Subheading uses smaller sans-serif font in gray/white with increased letter spacing for a refined tone\n* Center-aligned layout over a dark grid background enhances contrast and sophistication\n\n## Grid of Features (4 Cards)\n* Four feature blocks arranged in a 2x2 grid layout (`CSS Grid` or Flexbox with `flex-wrap`)\n* All cards have:\n  - Rounded corners\n  - Dark background with thin light borders or inner glow for subtle separation\n  - Consistent vertical padding and spacing between cards\n  - Image to represent the card concept\n\n## Visual Styling & Implementation\n* Dark theme uses deep gray/black background with grid texture (CSS `background-image` or SVG)\n* White and gold/yellow used sparingly for emphasis\n* Grid layout uses `gap` and `max-width` constraints for balance and visual harmony\n* Interactive elements (button, chat) enhanced with animation or hover effects for engagement\n* Responsive behavior: Stack cards vertically on mobile with margin between each",
+    "categories": [
+      "Content",
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-lwltzn23",
+    "image": "inspiration/rgpt-lWLtzN23.jpg",
+    "prompt": "# Purpose:\nThis section communicates the value proposition of the Learnly platform by showcasing its instructional quality, community benefits, and practical teaching philosophy. It builds trust with prospective learners—especially financial education seekers—by using a clean, modular layout and succinct benefit statements. The design is highly effective for course creators and coaching platforms that want to reinforce credibility, clarity, and student-centric outcomes.\n\n# Design Notes:\n\n## Section Heading\n* Centered headline uses mixed styling:\n  - “Why Choose” in black\n  - “Learnly” in orange for brand emphasis\n* Subheading below uses smaller, muted sans-serif font to reinforce purpose and benefits\n\n## Grid Layout\n* 3-column layout with symmetrical alignment and consistent padding\n* Cards are visually separated using rounded corners, white backgrounds, and subtle shadows or borders\n* Equal spacing between rows and columns using CSS Grid (`grid-gap`) or Flexbox with `wrap`\n\n## Card Elements (Visual + Text)\n* Each card includes either:\n  - Bold headline text with supporting body copy\n  - Or a centered title with accompanying icon and paragraph\n* Typography:\n  - Headings in bold sans-serif black\n  - Subtext in smaller gray font with comfortable line height\n* Image:\n  - Rounded corners.\n  - The image in the second column is one image\n* Icons:\n  - Simple, line-style icons used to reinforce each feature (e.g. video, community, education)\n  - Icons likely implemented via inline SVG or icon font (FontAwesome, Heroicons)\n\n## Visual Styling & Implementation\n* Background: light gray or white for clean, trustworthy tone\n* Card style:\n  - `border-radius: 16px`, `padding: 24px`, `box-shadow: subtle`\n* Use `max-width` on text blocks to maintain readability\n* Responsive: stack columns vertically on smaller screens with vertical spacing",
+    "categories": [
+      "Content",
+      "Features"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-mq1tmbdm",
+    "image": "inspiration/rgpt-mQ1Tmbdm.jpg",
+    "prompt": "# Purpose:\nThis event highlight section is designed to showcase a featured upcoming event—in this case, the Annual Golf Championship. It serves to draw attention, inform users of event details, and drive attendance or engagement. This layout is especially effective for coaches, community builders, or membership site owners who host live or in-person events and need a clean, visual format to promote them.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column horizontal card layout:\n  - Left: event image\n  - Right: event name, description, date, and location\n* Uses Flexbox or CSS Grid with `align-items: center` and padding between columns\n* Outer container has rounded corners and drop shadow for elevation\n\n## Visual Content (Left)\n* Event image is a square format with rounded corners (`border-radius`)\n* Maintains consistent sizing relative to text block\n* Image fills container via `object-fit: cover`\n\n## Textual Content (Right)\n* Heading: “Annual Golf Championship” in large, bold sans-serif font\n* Description paragraph in smaller gray text with comfortable line spacing\n* Icon + text rows for:\n  - **Date**: Calendar icon + “March 15, 2025”\n  - **Location**: Map pin icon + venue name\n* Icons likely from FontAwesome or Material Icons with light gray fill\n\n## Typography & Icons\n* Uses clear typographic hierarchy:\n  - Title: `font-size: 1.5–2rem`, bold\n  - Body: `font-size: 1rem`, normal weight\n  - Meta info: smaller font with icon alignment\n* Icon/text rows are horizontally aligned with `gap` or inline-flex layout\n\n## Visual Styling & Implementation\n* Background color: soft beige or off-white for a friendly, premium look\n* Card background: white with `border-radius: 20px` and `box-shadow: subtle`\n* Section likely centered within a `max-width` wrapper\n* Responsive behavior: stack image above text block on smaller screens with margin adjustments",
+    "categories": [
+      "Events"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-n1upy2tf",
+    "image": "inspiration/rgpt-n1uPy2tf.jpg",
+    "prompt": "# Purpose:\nThis section is crafted to communicate the mission and core values of the BrightMind learning platform. It’s designed to inspire trust and encourage exploration by highlighting the platform’s accessibility, flexibility, and real-world impact. For online educators, coaches, or membership-based course creators, this type of section builds emotional resonance while reinforcing practical benefits that drive user engagement and signups.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column horizontal layout:\n  - Left: headline, body text, benefits list, and CTA button\n  - Right: image of mentor and learner at a computer\n* Uses Flexbox or CSS Grid with vertical centering for balanced alignment\n* Clean white background and generous spacing enhance readability\n\n## Headline & Subheadline\n* Large, bold heading split into two lines:\n  - “Inspiring Journey” highlighted in purple (`#8E6CFF`)\n  - “BrightMind’s Growth” in bold black sans-serif\n* Supporting paragraph in medium gray provides mission narrative in clear, accessible tone\n\n## Benefits List\n* Four-point checklist styled with:\n  - Purple circular checkmark icons (SVG or FontAwesome)\n  - Left-aligned bold benefit titles with short, punchy supporting phrases\n* Even vertical spacing (`margin-bottom`) between list items for clarity\n\n## CTA Button\n* Pill-shaped button (“Explore Courses”) with purple background and white text\n* Uses `border-radius: 999px` with padding and slight shadow or hover effect\n* Positioned below checklist with `margin-top` spacing\n\n## Image Section\n* Right column image uses rounded corners (`border-radius: 16px`)\n* Aligned to match the height of the text block on desktop\n* Responsive layout stacks image below content on smaller screens\n\n## Visual Styling & Implementation\n* Typography:\n  - Headline uses variable weight for emphasis\n  - Body copy and list use `font-size: 1rem` with `line-height: 1.6`\n* Use `Flexbox` for horizontal layout with responsive wrapping\n* Consistent margin and padding around all elements\n* High contrast and minimal color palette enhance professionalism and trust",
+    "categories": [
+      "Checklist",
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-n4vzwzkr",
+    "image": "inspiration/rgpt-n4VzWZKR.jpg",
+    "prompt": "# Purpose:\nThis pricing comparison section is designed to convert visitors into paying students by presenting two clear purchase options—self-paced learning and coaching-enhanced learning. It helps coaches, course creators, and membership site owners communicate value tiers and drive urgency to enroll. The layout emphasizes transparency, benefits, and ease of choice, supporting both budget-conscious and premium-oriented buyers.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column card layout with equal width:\n  - Left: base course\n  - Right: course + coaching (premium)\n* Cards are center-aligned with rounded corners, drop shadows, and soft cream backgrounds\n* Layout uses CSS Grid or Flexbox with `gap` and `justify-content: center`\n\n## Headings & Subtext\n* Section heading: “Course Pricing” in bold, centered black sans-serif\n* Subheading in smaller size and gray text emphasizes urgency and inclusion of updates\n\n## Pricing Cards\n* Each card includes:\n  - Plan name in bold\n  - Short plan description in smaller text\n  - Price in large bold type (`$99` and `$399`)\n  - “one-time fee” in light gray next to price\n\n## Feature List\n* Bulleted features with orange icons (video, content, access, updates)\n* Coaching plan includes an additional item: “Two 40-min 1:1 sessions with instructor” with person icon\n* Icons use consistent size and left padding (`display: flex; align-items: center; gap`)\n\n## Call-to-Action Buttons\n* Both plans use large, rounded buttons labeled “Enroll today”\n  - Left button: bright orange background with white text\n  - Right button: solid black background with white text\n* Buttons styled with `border-radius: 999px`, subtle shadow, and `hover: scale()` or `brightness()`\n\n## Refund Disclaimer\n* Footer text below cards with refund policy in small, centered font\n* Covers both plans and sets expectations clearly\n\n## Visual Styling & Implementation\n* Cream-tinted backgrounds on cards created via `background-color: #FFF8F0` (or similar)\n* Icons are likely inline SVG or emoji-style assets\n* Text is left-aligned within cards, with ample `padding: 24px`\n* Responsive: stack cards vertically on smaller screens with consistent spacing",
     "categories": [
       "Pricing"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-02_awz",
-    "image": "pricing-sections/02_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have a centered heading text and subheading text, followed by two columns in the inside of each column there's a card the card has a thin border and a background and also a slight drop shadow soda pears like it's floating inside the card, we have a heading a subheading, followed by a thin line, and then a list of features that have an icon for each feature. The list of features also has a heading as well below the list of features there is some text that indicates the price followed by a button. The section has two background colors as if the section was split in between a light and dark color the cards would sit halfway across, so it feels like they're crossing between the two sections",
+    "id": "inspiration-rgpt-ngauxnn3",
+    "image": "inspiration/rgpt-ngauXnN3.jpg",
+    "prompt": "# Purpose:\nThis section presents a course selection grid tailored to users' goals, helping learners quickly find the most relevant educational path. For course creators and education platform owners, it's an effective way to guide enrollment by clearly segmenting offerings based on skill level or objective. It encourages user interaction and boosts clarity by connecting each course type to a distinct outcome.\n\n# Design Notes:\n\n## Section Header\n* Centered headline: “Choose the right course for your goals”\n  - Uses bold black for “Choose the right” and lighter gray for “course for your goals” to create typographic hierarchy\n* Green pill-shaped label “Courses” above the heading for categorical context\n\n## Course Card Grid\n* 2x2 grid layout with four course cards:\n  - Beginner English\n  - Business English\n  - Conversational English\n  - IELTS / TOEFL Prep\n* Even spacing and equal width/height for each card using `CSS Grid` with `gap`\n\n## Card Design\n* Each card includes:\n  - Icon (color-coded line-style SVG or FontAwesome)\n  - Course title in bold sans-serif\n  - One-line description in light gray\n  - CTA button in light gray pill style with black text (e.g. “Learn the basics”)\n* Icons:\n  - Blue open book (Beginner)\n  - Suit and tie (Business)\n  - Speech bubble (Conversational)\n  - Graduation cap (IELTS/TOEFL)\n* Buttons use `border-radius: 999px` and consistent padding for cohesion\n\n## Visual Styling & Implementation\n* Background is white with light shadow or border around each card (`box-shadow` or `border: 1px solid #EEE`)\n* Font sizes:\n  - Title: `font-size: 1.25rem`, weight `600–700`\n  - Description: `font-size: 0.95rem`, weight `400`, color `#6B6B6B`\n* Responsive:\n  - Stack into single column or 2-column layout on smaller screens\n  - CTA buttons may stack below text with full width if space is constrained",
     "categories": [
-      "Pricing"
+      "Content",
+      "Icon Cards",
+      "Features"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-03_awz",
-    "image": "pricing-sections/03_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have a centered heading tax and subheading text below. That is an area that has a different background color and also rounded corners. It has two columns and there's a thin line between the two columns so we want this to look like one card inside the two columns. We have an icon followed by some pre-text, heading text and then a list of features that has a checkmark ico, below the list of features, there would be a button noticed there are two different buttons for each of the columns",
+    "id": "inspiration-rgpt-nrqeft6l",
+    "image": "inspiration/rgpt-nrQEFt6L.jpg",
+    "prompt": "# Purpose:\nThis hero section is designed to inspire users to take immediate action by framing self-investment through education as the highest-value opportunity. With a blend of emotional appeal, visual relatability, and strong social proof, it effectively builds trust and drives conversions for coaches and course creators offering online programs or digital memberships.\n\n# Design Notes:\n\n## Layout Structure\n* Full-width, split overlay layout:\n  - Background: full-bleed photo of happy, relatable learners\n  - Foreground: content aligned left and vertically centered\n* Uses `position: relative` and `z-index` layering to overlay content over image with dark gradient mask\n\n## Headline & Subtext\n* Large, two-line headline with typographic emphasis:\n  - “The Best Investment” in white serif\n  - “You Can Make is in Yourself” in gold (`#F5C44C`) for motivational contrast\n* Supporting paragraph in light gray with smaller font for clarity and context\n\n## CTA Button\n* Solid gold button (“Start Learning Today”) with pill shape\n* Hover state likely includes brightness or slight scale (`transform: scale(1.03)`)\n* Rounded corners (`border-radius: 999px`) and `padding: 12px 24px`\n\n## Social Proof\n* Row of overlapping circular avatars (`border-radius: 50%`, `margin-left: -8px`)\n* Text: “Joins 28,500+ like students” in small, muted gray for understated credibility\n* Avatar and text container aligned horizontally using `Flexbox`\n\n## Background & Visual Effects\n* Background image darkened via gradient overlay (`linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.8))`)\n* Foreground text remains highly legible due to strong contrast and controlled spacing\n\n## Implementation Guidance\n* Use `absolute` or `pseudo-element` gradient overlay for background treatment\n* Responsive design should reposition content to center-align on mobile\n* Text container likely capped with `max-width: 600px` and `padding: 4rem`",
     "categories": [
-      "Pricing"
+      "Hero Banner"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-04_awz",
-    "image": "pricing-sections/04_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it.",
+    "id": "inspiration-rgpt-nrgns47y",
+    "image": "inspiration/rgpt-nrgns47y.jpg",
+    "prompt": "# Purpose:\nThis section highlights the platform’s core achievements and value metrics—content volume, course offerings, and user base—to build trust and credibility. It’s ideal for online educators and training platforms looking to demonstrate scale and effectiveness to prospective learners or enterprise clients. The clean visual stats paired with enterprise logos provide social proof and reinforce professionalism.\n\n# Design Notes:\n\n## Section Header\n* Centered heading: “Boost Your Skills” in bold black sans-serif\n* Small pill-style label above heading: “We Offer” with icon (likely inline SVG)\n* Supporting paragraph below in muted gray, explaining the purpose of the offerings\n\n## Stats Grid\n* Three equally sized cards in a horizontal row, each with:\n  - Icon (soft-glow 3D style, unique per stat)\n  - Large stat in bold (e.g. \"100+\")\n  - Label in smaller uppercase font (e.g. “HOURS OF CONTENT”)\n* Cards have:\n  - Rounded corners (`border-radius: 24px`)\n  - Subtle gradients and glow effects using `box-shadow` and `linear-gradient` backgrounds\n  - Slight perspective tilt for visual dimension (can be achieved with `transform: rotateY()` or skew)\n\n## Icons\n* Calendar (Hours of Content) – red-pink tone\n* Envelope/Document (Courses) – blue tone\n* User group (Students) – purple tone\n* All icons centered in soft pill-shaped containers with drop shadows for depth\n\n## Partner Logos (Bottom Row)\n* Logo list centered below stat cards\n* Grayscale SVG-style logos for companies like “Startup”, “Codelify”, “Blockly”, etc.\n* Logos spaced evenly with horizontal padding and `opacity: 0.7` for minimal visual noise\n\n## Visual Styling & Implementation\n* Background: soft radial gradient in pale blue/purple hue\n* Use `CSS Grid` or `Flexbox` for responsive layout\n* Cards adjust to stack vertically on small screens with equal spacing\n* Consistent use of typography: `font-weight: 700` for numbers, `400–500` for labels\n* Soft shadows and transitions for hover/focus interactivity (`transition: all 0.3s ease`)",
     "categories": [
-      "Pricing"
+      "Content",
+      "Features",
+      "Image Cards"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-05_awz",
-    "image": "pricing-sections/05_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. Here is a pretty complex pricing section. We start off with a heading, and a subheading, which is left justified in that same row. We have a toggle between monthly and yearly, and with a yearly also indicating in a different color how much there are savings below that we have a typical pricing cards displaying different plans each plan will have a colored, heading to indicate the plan name, followed by a short description after the description you'll see the price below the price, you'll see some text that describes the price below, that you'll see a button and below the button for each of the columns you'll see a list of items. Some of the items may be disabled or look dimmed if they're not available, the section itself should have a background color, but we also want to place a subtle CSS gradient blob towards the bottom portion of the page so that this way it doesn't seem so flat",
+    "id": "inspiration-rgpt-o1c9smus",
+    "image": "inspiration/rgpt-o1c9sMUS.jpg",
+    "prompt": "# Purpose:\nThis section promotes high-value bonus training bundled with a primary offer, leveraging exclusivity and expert authority to increase perceived value and conversions. It’s ideal for course creators and coaching platforms looking to add premium bonuses that drive urgency and differentiate their offer. The layout emphasizes credibility, outcomes, and scarcity while maintaining brand consistency and elegance.\n\n# Design Notes:\n\n## Section Header\n* Centered headline: “8 Advanced Persuasion Masterclasses” in large serif type\n  - Subheader above in pink (“Plus, Even More Training…”) adds informal excitement\n* Yellow pill label below heading: “(WORTH OVER $3900!)”\n  - High-contrast callout using `background-color: #FFD966`, rounded corners, and bold black text\n\n## Layout Structure\n* Two-column card format inside a white rounded box:\n  - Left: instructor photo, session title, and name\n  - Right: class description and bulleted learning outcomes\n* Padding around all sides with vertical center alignment\n\n## Left Column (Instructor Info)\n* Circular image (avatar-style) of instructor with slight shadow\n* Below image:\n  - Label: “MESSAGING MASTERCLASS” in pink uppercase sans-serif\n  - Title: “How to Convince Your Customers Without Writing a Word” in black serif\n  - Author name: italicized subtext with muted gray\n\n## Right Column (Content Description)\n* Paragraph copy in small serif font introduces the masterclass concept\n* Bulleted list of key takeaways:\n  - Each bullet includes a pink checkmark icon (FontAwesome or inline SVG)\n  - Short bold phrases followed by supportive text\n  - Final bullet includes bold/italic emphasis for unique selling point\n\n## Expert Bio Footer\n* Pale peach text box with mini-bio in small serif text\n* Emphasizes authority and credentials using subtle color differentiation and italics\n\n## Visual Styling & Implementation\n* Soft pink background (#FCEEF1) across the section sets warm, premium tone\n* Primary font pairings:\n  - Serif for headings and content\n  - Sans-serif for labels and meta info\n* CTA-style text at bottom: “FREE — Included with The Copy Cure!” styled with bold italic type and pink checkmark\n* Responsive: stack columns vertically with image on top for mobile",
     "categories": [
-      "Pricing"
+      "Content",
+      "Features"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-06_awz",
-    "image": "pricing-sections/06_awz.jpg",
-    "prompt": "Create this section as close as to the design as you can replicate it. In this pricing section, we have text on the left-hand side and a few cars to represent different pricing plans on the left-hand side we have heading tax, followed by a paragraph and then we have some trust indicators shown with a heading some rating stars and also rating information on the right hand side, we have the plan cards each card has a thin border as well as a background solid background color the plan name will be shown, followed by the price, followed by short subheading then will have the button for the price below. The button will have a what's included in the plan listing that contains followed by a list of the items that's included.. The section itself has a subtle CSS gradient blob that's positioned towards the right hand portion of the section",
+    "id": "inspiration-rgpt-oaymnt8m",
+    "image": "inspiration/rgpt-oAYmNT8m.jpg",
+    "prompt": "# Purpose:\nThis quick-access utility section is designed to improve user experience and reduce friction by helping visitors immediately find courses or answers to common questions. For course creators and platform owners, it’s a strategic element to support conversion and retention by guiding users to high-intent actions without overwhelming them with too many options.\n\n# Design Notes:\n\n## Layout Structure\n* Two horizontally aligned cards in a responsive flexbox or grid layout\n* Each card serves as a gateway to a key user flow:\n  - Course discovery\n  - FAQ resolution\n* Cards are centered with consistent spacing and padding\n\n## Card Components\n* Light lavender background cards with large border-radius (`border-radius: 24px`)\n* Each card includes:\n  - Black and white line-style illustration (likely SVG or Lottie-compatible)\n  - Short heading in bold black text\n  - CTA button in vibrant blue (“Explore Courses” / “Explore FAQs”)\n\n## Typography\n* Headings are short and conversational:\n  - Sentence case for natural tone\n  - Emphasis on readability with high contrast (black on soft background)\n* Button text is white, bold, and all-caps on a blue button (`background-color: #4B00FF` or similar)\n\n## CTA Buttons\n* Rounded rectangle buttons (`border-radius: 12px`) with centered alignment\n* Hover effect likely includes:\n  - Slight shadow or brightness shift\n  - Cursor pointer and scale effect via `transform: scale(1.03)`\n\n## Background & Visual Integration\n* Section uses a two-tone split:\n  - Top portion: light lavender or white\n  - Bottom base: solid bright purple\n* Cards slightly overlap the purple base using negative margin or `position: relative` with `z-index`\n* Creates visual lift and segmentation\n\n## Implementation Guidance\n* Use `Flexbox` for horizontal alignment with `gap: 2rem` or `justify-content: space-around`\n* Illustrations should be SVGs for scalability and easy style overrides\n* Use `max-width: 600px` per card for readable responsiveness\n* On smaller screens: stack cards vertically with adequate padding (`padding: 24px`)",
     "categories": [
-      "Pricing"
+      "Call To Action"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-1",
-    "image": "pricing-sections/1.jpg",
-    "prompt": "Create a pricing section for a page that contains two pricing options one it potentially is for a single course, and the other is for the membership. The section has the notable features:\n\n* Two soft gradient CSS blobs as the background of the section. One blob is in the lower left corner using the primary coilor. The second in upper right corner using the secondary color.\n* The second card has a multi color border that uses both the primary and secondary color\n* The background of the second card has a lighter version of the primary color so that it stands out",
+    "id": "inspiration-rgpt-oajfaiy7",
+    "image": "inspiration/rgpt-oAjfaiy7.jpg",
+    "prompt": "# Purpose:\nThis hero section aims to instantly capture attention and emotionally engage aspiring artists by positioning the platform as a transformational opportunity. It encourages immediate action through a confident value proposition and bold visual styling. For creators or coaches selling art programs, this is an effective method to drive conversions, establish brand voice, and inspire community connection.\n\n# Design Notes:\n\n## Layout Structure\n* Full-screen hero section with background video or image of a focused artist\n* Content centered both vertically and horizontally using `Flexbox` or `Grid`\n* Overlay gradient applied for legibility enhancement\n\n## Headline & Subheadline\n* Bold, all-caps main headline: “BECOME THE ARTIST YOU WERE BORN TO BE”\n  - Large font size, white sans-serif with tight line height\n* Subheadline in smaller, medium-weight font: “Build Your Skills. Find Your Voice. Connect with Community.”\n  - Also white, with `letter-spacing` for openness\n\n## Call-to-Action Button\n* Centered hot pink button: “GET STARTED TODAY!”\n* Pill-shaped with `border-radius: 999px`, bold white text, and `padding: 14px 24px`\n* Hover state likely includes slight scale-up or brightness adjustment\n\n## Background & Overlay\n* Full-bleed background image (or video) of artist painting\n* Semi-transparent pink-to-clear gradient overlay from bottom to center\n  - Achieved via `linear-gradient(rgba(255,0,128,0.7), rgba(255,0,128,0))`\n* Organic torn-edge bottom border adds handcrafted visual flair\n  - Likely implemented with inline SVG or masked image border\n\n## Visual Styling & Implementation\n* Typography:\n  - `font-size: 3–4rem` for heading on desktop, reduced on mobile\n  - Strong contrast ensured through white text and gradient overlay\n* Button interaction:\n  - Use `:hover` and `:focus-visible` states for accessibility\n* Section height set to `100vh` for immersive hero experience\n\n## Responsive Behavior\n* Text remains centered and scales down on mobile\n* Button reflows to full-width under text stack\n* Image scales using `object-fit: cover` and retains focal point with `object-position`",
     "categories": [
-      "Pricing"
+      "Hero Banner"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-2",
-    "image": "pricing-sections/2.jpg",
-    "prompt": "Create multi-column pricing othat will describe the purchase options for my membership program. The section has the notable features:\n\n* Popular plan clearly visible by a badge\n* Muted text for features that are not included in the plabe\n* Trust indicators and social proof in the upper right corner",
+    "id": "inspiration-rgpt-ohanbjop",
+    "image": "inspiration/rgpt-oHaNbjop.jpg",
+    "prompt": "# Purpose:\nThis testimonial spotlight is designed to build trust and establish credibility by featuring a high-authority quote with visual reinforcement. For online course creators and education platforms, this type of section boosts conversions by validating the learning experience through social proof from a professional figure, which reduces skepticism and motivates hesitant visitors.\n\n# Design Notes:\n\n## Section Layout\n* Full-width, single-column section featuring a card-style testimonial with split layout:\n  - Left side: quote text\n  - Right side: customer image (photo)\n* Card uses centered alignment within a dark background to isolate focus\n\n## Card Styling\n* Background: semi-transparent black overlay on image (`background-color: rgba(0,0,0,0.5)`) or dark gradient blend\n* Rounded corners (`border-radius: 20px`)\n* Soft shadow glow around card for elevated emphasis (`box-shadow: 0 0 30px rgba(0,0,0,0.3)`)\n\n## Typography\n* Large white serif or clean sans-serif quote text (`font-size: 1.5rem+`)\n* Em dash used to separate name and title, styled in lighter white/gray\n* Text alignment: left, vertically centered alongside image\n* Font smoothing or slight text-shadow to enhance contrast on dark background\n\n## Image Treatment\n* Image of the testimonial giver occupies right half of card\n* Image likely uses `object-fit: cover` or is background image of div container\n* Ensures expressive facial expression is visible and aligned to quote context\n\n## Implementation Tips\n* Use `CSS Grid` or `Flexbox` for side-by-side layout with equal height constraint\n* Ensure text area has `padding: 2rem` or more for generous whitespace\n* Consider using a `:before` pseudo-element or gradient mask for text readability if image overlay is light\n* Responsive behavior: stacks vertically with image on top for smaller screens",
     "categories": [
-      "Pricing"
+      "Content",
+      "Testimonial"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-3",
-    "image": "pricing-sections/3.jpg",
-    "prompt": "Create this pricing section for my course landing page it includes a course summary on the right hand side, and then the module listings on the left-hand side.Be sure to include these notable features.\n\n* Use placeholder content for the modules\n* Name and description of the course in the right side also includes an avatar stack of student images\n* Summary list of what is included",
+    "id": "inspiration-rgpt-obqktlmq",
+    "image": "inspiration/rgpt-obqktlMq.jpg",
+    "prompt": "# Purpose:\nThis FAQ section helps reduce purchasing hesitation and increases user trust by providing answers to common questions in a clean, accessible format. For course creators and membership sites, it's a key conversion-support tool that reassures potential students while also offering a clear next step to get personalized help if needed.\n\n# Design Notes:\n\n## Layout Structure\n* Two-column layout:\n  - Left side: contact encouragement and CTA\n  - Right side: accordion-style FAQ entries\n* Utilizes responsive `CSS Grid` or `Flexbox` with a medium-wide breakpoint for mobile stacking\n\n## Left Panel (Support Callout)\n* White card with soft shadow and rounded corners\n* Content includes:\n  - Bold heading: “Still Have Questions?”\n  - Inline link: “Contact Us” in underline style\n  - Small horizontal avatar stack showing support members (`border-radius: 50%`, overlap with `z-index`)\n  - Button: \"Start Learning Now\" with dark gradient (`linear-gradient`) and pill shape\n\n## Right Panel (FAQ Accordion)\n* Series of collapsible cards with question text\n* Each FAQ item uses:\n  - White background with subtle box shadow\n  - Rounded corners (`border-radius: 12px`)\n  - Expand/collapse icon (+/x) aligned right\n  - When expanded, answer text appears with a soft fade and vertical spacing\n\n## Typography\n* Section title: “Frequently Asked Questions!” in bold, large sans-serif\n  - Uses emphasis with exclamation for friendly tone\n* FAQ items: bold questions and smaller, readable answers\n* Link text in blue or underlined to differentiate action\n\n## Visual Styling\n* Soft radial gradient background in lavender/pink tones adds warmth and personality (`background: radial-gradient(...)`)\n* Subtle shadows and white card layering for depth\n* Icons for FAQ (+/x) likely implemented with SVGs or CSS pseudo-elements\n\n## Interaction & Implementation\n* Accordion functionality handled with JavaScript (toggle height and visibility)\n* FAQ content wrapped in `<details>` or `aria-expanded` divs for accessibility\n* Contact link anchors to a separate contact section or opens a modal\n* Avatars likely use `Flex` with negative margin for overlapping effect",
     "categories": [
-      "Pricing"
+      "FAQs"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-4",
-    "image": "pricing-sections/4.jpg",
-    "prompt": "Create a two-column pricing section like the attached image. Be sure to include these notable features:\n\n* Card border that does not go fully around the card. An image is placed in the center of the border on the top, and a button is places on the center portion of the border on the bottom. The border lines end in a circle. You should be able to use CSS for the border and circles.\n* The popular plan has a different color border and also a subtle CSS gradient blob in the background.",
+    "id": "inspiration-rgpt-ohvtnb2x",
+    "image": "inspiration/rgpt-ohVtNb2x.jpg",
+    "prompt": "# Purpose:\nThis call-to-action (CTA) section is designed to motivate immediate engagement from potential students by providing a clear next step within a friendly and approachable visual frame. It appeals to course creators and coaching platforms that want to increase conversions by closing the loop after showcasing value. The playful design and simple CTA encourage action without overwhelming the user.\n\n# Design Notes:\n\n## Layout Structure\n* Full-width centered card with vertical stack:\n  - Headline text\n  - Call-to-action button\n* Surrounded by floating, offset avatars to suggest an active community\n* Content is horizontally and vertically centered (`Flexbox` with `align-items: center`, `justify-content: center`)\n\n## Visual Styling\n* Bright purple background (`background-color: #8b5cf6`) to draw attention and signal positivity\n* Rounded container corners (`border-radius: 1.5rem`)\n* Light drop shadow for elevation above page background\n\n## Typography\n* Large, bold white text with friendly tone\n* Sans-serif font, high legibility, and medium spacing\n* Message broken across two lines using a long dash for pause\n\n## Button Design\n* White pill-style button with black text\n* Rounded full (`border-radius: 9999px`)\n* Likely includes hover effect: darker text or shadow on hover (`transition: all 0.3s ease`)\n* Minimal styling for accessibility and clarity\n\n## Avatar/Illustration Elements\n* Four decorative character badges arranged in corners:\n  - Slight rotation or custom shapes (hexagon/star blob effects)\n  - Positioned with `absolute` or `transform: translate()` within a `relative` container\n* Avatar badges add personality and human touch\n* Likely implemented as SVGs or masked images\n\n## Implementation Guidance\n* Use `Flexbox` for center alignment\n* Use `position: relative` on container and `position: absolute` for avatar placements\n* For decorative avatar shapes: use `clip-path: polygon()` or SVG shape masks\n* Add light `box-shadow` for floating effect on avatars and button",
     "categories": [
-      "Pricing"
+      "Call To Action"
     ],
     "video": ""
   },
   {
-    "id": "pricing-sections-5",
-    "image": "pricing-sections/5.jpg",
-    "prompt": "Create a pricing section that looks like the attached. Be sure to include a way to highlight the popular plan like iyt is shown.",
+    "id": "inspiration-rgpt-oqbjty6v",
+    "image": "inspiration/rgpt-oqbjTy6V.jpg",
+    "prompt": "# Purpose:\nThis section is a high-impact promotional banner targeting online business owners, coaches, and course creators looking to elevate their brand. It encourages urgency with a limited-time offer and leverages value-based language (\"Blueprint\", \"50% off\") to drive conversions. This design pattern is effective in membership and course sites to trigger impulse buys or previews, especially during campaigns or launches.\n\n# Design Notes:\n\n## Layout Structure\n* Single centered container on a dark background\n* Large heading text stacked above two call-to-action buttons\n* Layout uses `Flexbox` or `Grid` for column alignment with buttons in a row below text\n\n## Typography\n* Headline uses bold sans-serif font with clear hierarchy:\n  - \"Limited time offer : Save 50%\" in high-contrast white\n  - \"on the Brand Growth Blueprint\" in a gradient tone for visual depth\n* Font size significantly larger than surrounding content, creating a strong focal point\n\n## Visual Styling\n* Gradient text effect on lower line: likely `background: linear-gradient()` with `-webkit-background-clip: text` and `color: transparent`\n* Rounded dark card (`border-radius: 1.5rem`, `background-color: #1A1A1A`) to stand out against black page background\n* Soft shadow to subtly elevate the card\n\n## Call-to-Action Buttons\n* Two contrasting styles:\n  - Primary: Bright orange button (\"Access for $99\") with white text, rounded pill shape\n  - Secondary: Dark ghost button with white border and text (\"Get a Free Preview\")\n* Button pair encourages both urgency and low-risk exploration (FOMO + curiosity)\n* Likely includes hover and active states: scale or brightness transitions\n\n## Implementation Guidance\n* Use `Flexbox` for vertical centering and button alignment\n* Apply gradient text effect with `background-clip: text` and `text-fill-color: transparent`\n* Buttons styled with consistent padding, `border-radius: 9999px`, and `transition: all 0.3s ease`\n* Card shadow can use `box-shadow: 0 10px 20px rgba(0,0,0,0.3)`",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-p6vbbs3q",
+    "image": "inspiration/rgpt-p6VBbs3q.jpg",
+    "prompt": "# Purpose:\nThis section promotes a web design course aimed at turning beginners into confident professionals. It’s crafted to support course creators by showcasing a clear learning transformation, product interface preview, and persuasive testimonial. The structure builds credibility, sparks curiosity with a visual walkthrough, and drives action with a bold CTA—making it highly effective for converting leads into students.\n\n# Design Notes:\n\n## Hero Area\n* Center-aligned vertical stack with headline, subheadline, and CTA\n* Bold sans-serif headline split across two lines for readability and impact\n* Subheadline emphasizes the course’s value: turning designs into functional websites with monetization potential\n* Small badge above headline (“New & improved 2.0 version”) using pill styling (`border-radius: 9999px`) and dark background\n\n## Call-to-Action\n* Prominent orange button (“Learn more”) uses soft rounded corners and high contrast\n* CTA styled with `background-color: #ff5722`, white text, and subtle shadow\n* Handwritten-style callout below button (“Link to a real course”) likely implemented with a casual script font or inline SVG arrow\n\n## Course Preview Section\n* Mock browser window graphic containing the UI of a website builder platform\n* Centered play button overlaying a screenshot of the course dashboard or editor\n* Light shadow and rounded corners on container frame (`box-shadow`, `border-radius: 8px`)\n\n## Testimonial Area\n* Quoted text with key phrase highlighted in orange using `<mark>` or `span` styling (`background-color: #ff5722`)\n* Profile image in circular crop beneath quote with name and role in smaller muted text\n* Balanced padding around testimonial section for visual breathing room\n\n## Visual Styling\n* Clean white background supports focus and contrast\n* Typography hierarchy uses bold headers, medium subhead, and small body with selective emphasis\n* Generous vertical spacing between sections helps guide reading flow\n\n## Implementation Guidance\n* Use CSS Flexbox (column direction) for vertical stacking and centered alignment\n* Testimonial highlight via `span` with `background-color`, `border-radius`, and `padding-inline`\n* Optional arrow note styled using inline SVG or Google Fonts like “Patrick Hand” for handwritten effect\n* Video play overlay with absolute positioning and semi-transparent background",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-p9zkhyh4",
+    "image": "inspiration/rgpt-p9ZkHyh4.jpg",
+    "prompt": "# Purpose:\nThis section highlights the value proposition of an educational program by showcasing what makes it stand out. It is designed to build trust and differentiate the offer by emphasizing benefits like career advancement, hands-on experience, and community. For course creators and membership owners, this layout is ideal for boosting conversions by validating the learning experience with clearly structured proof points and reinforcing long-term value.\n\n# Design Notes:\n\n## Section Title\n* Center-aligned heading in large serif font for credibility and elegance\n* Subheading uses smaller sans-serif text with medium opacity to soften and contextualize the message\n\n## Feature Grid\n* Two-row grid layout with three columns per row (`CSS Grid` or `Flexbox with `wrap`)\n* Each feature is placed in a dark rounded-rectangle card with subtle border (`border-radius: 12px; border: 1px solid rgba(255,255,255,0.1)`)\n* Consistent spacing between cards with even padding and alignment\n\n## Icon and Text Styling\n* Yellow/gold accent icons for each feature (likely custom SVG or icon font set)\n* Icons are top-left aligned inside each card\n* Titles in bold white sans-serif, short and benefit-focused\n* Descriptions in smaller, muted gray text for readability without overwhelming emphasis\n\n## Visual Styling\n* Dark blurred video background or gradient overlay to add depth while keeping the foreground readable\n* Cards use translucent background (`background-color: rgba(0,0,0,0.4)`) for contrast\n* Hover state can use `box-shadow` or slight `transform: scale(1.02)` for subtle interactivity\n\n## Implementation Guidance\n* Use `CSS Grid` with `gap: 1.5rem` and `grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))` for responsive layout\n* Icons can be loaded from FontAwesome or as inline SVG with `fill: #ffc107` or similar accent color\n* Apply `backdrop-filter: blur(10px)` for frosted glass effect if supported\n* Add `transition: all 0.3s ease` for smooth card animations",
+    "categories": [
+      "Features",
+      "Icon Cards"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-pvw7u1hd",
+    "image": "inspiration/rgpt-pvW7U1HD.jpg",
+    "prompt": "# Purpose:\nThis testimonial section provides powerful social proof that builds trust and credibility with prospective students. For online course creators and coaching businesses, it’s crucial to show how real users have succeeded using the program. By visually showcasing authentic stories with names, faces, and quotes, it reinforces transformation potential, boosts conversions, and supports emotional engagement for skeptical or hesitant buyers.\n\n# Design Notes:\n\n## Testimonial Grid\n* Two-row, five-column card layout using `CSS Grid` with `gap` for consistent spacing\n* Responsive layout likely switches to single-column or two-column on smaller screens\n* Each testimonial is a card with rounded corners and light shadow for elevation\n\n## Testimonial Cards\n* Cards include:\n  - Star rating (FontAwesome star icons, typically `#FFD700` or `#FFA500`)\n  - Bold testimonial quote\n  - Profile image in circular crop\n  - Name and sometimes title below\n* Cards have uniform padding and white background on a light neutral page background\n* Text alignment is centered or left-aligned depending on screen size\n\n## Typography & Hierarchy\n* Section heading emphasizes key words (“Real Results”) with bold color styling (e.g. `#007BFF` blue)\n* Subheading is smaller, muted gray text that gives context to the section\n* User names are bold or slightly darker for readability\n\n## Spacing and Alignment\n* Consistent horizontal and vertical spacing between cards\n* Equal vertical margins between heading, subheading, and grid\n* Profile images and text are vertically stacked with clear breathing room\n\n## Implementation Guidance\n* Use `CSS Grid` for card layout (`grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))`)\n* Profile images styled with `border-radius: 50%` and `object-fit: cover`\n* Cards use `box-shadow` for subtle elevation, e.g. `box-shadow: 0 2px 6px rgba(0,0,0,0.1)`\n* Text truncation avoided—quotes allowed to take full height with equal padding\n* Consider lazy-loading avatar images for performance",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qs9toxp2",
+    "image": "inspiration/rgpt-qS9ToxP2.jpg",
+    "prompt": "# Purpose:\nThis \"About the Creator\" section provides authentic, personal storytelling to establish trust and credibility with prospective course participants—especially those seeking transformation through structured challenges. It humanizes the instructor while reinforcing the brand's commitment to realistic fitness journeys. For coaches and course creators, this section demonstrates how personal narrative can become a key conversion asset—connecting emotionally with audiences while showing tangible success metrics.\n\n# Design Notes:\n\n## Two-Column Layout\n* Uses a responsive two-column layout: left for text narrative, right for photo and credibility points\n* Flexbox or CSS Grid with `grid-template-columns: 1fr 1fr` and vertical alignment center\n\n## Personal Story Text Block (Left)\n* Large heading with mixed-weight styling (\"Created by\" in black, \"Mike Dee\" in bold blue)\n* Body copy with selective inline highlights in blue: key phrases wrapped in `<span class=\"highlight\">` using `color: #007BFF` or similar\n* Line spacing is generous with medium-width line length (about 60–70 characters per line)\n* Paragraphs are short for scannability, with strategic line breaks\n* Emphasized phrases like “focused timeframe with specific goals” and “sustainable approach” reinforce the program’s clarity\n\n## Image & Highlights Column (Right)\n* Image of speaker inside rounded card with soft shadow (`box-shadow: 0 4px 20px rgba(0,0,0,0.1)`)\n* Light blue border and curved corners (`border-radius: 12px`)\n* Hand-drawn arrow SVG overlay or positioned pseudo-element using absolute positioning (`::after` with background-image or SVG path)\n\n## Achievement Checklist\n* Set of stacked cards with icons (checkmarks) and text descriptions\n* Blue accent bar on left edge of each item (or light blue border)\n* Icon + text aligned horizontally with `flex` and `gap`\n* FontAwesome `fa-circle-check` or similar for visual affirmation\n\n## Styling & Implementation Notes\n* Uses a soft blue grid background (`background: repeating-linear-gradient(...)`) for subtle structure\n* Text highlights via `span.highlight { color: #007BFF; font-weight: 500; }`\n* Checklist block built with CSS cards or `<ul>` with styled `<li>` components inside a `div` with padding and rounded corners\n* On mobile, stack the layout vertically with the image above or below the text (media query `@media (max-width: 768px)`)\n\n## Optional Enhancements\n* Arrow can animate slightly on page load using `transform: translateY(-5px)` with transition\n* Consider adding light hover effects to checklist items (`hover: background-color: rgba(0,0,0,0.05)`)",
+    "categories": [
+      "Instructors"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-qe7ar4vi",
+    "image": "inspiration/rgpt-qe7ar4VI.jpg",
+    "prompt": "# Purpose:\nThis section promotes a course focused on generative AI, designed to attract creatives and educators interested in emerging technologies. By showcasing visually stunning AI-generated artwork and emphasizing skill-building in tools like ChatGPT and DALL·E, it appeals to creators seeking to stay ahead in the digital landscape. For online course instructors and membership site owners, this section helps position their offerings as cutting-edge, inspiring confidence and excitement among potential learners while signaling innovation and future-readiness.\n\n# Design Notes:\n\n## Hero Section\n* Split layout with left-heavy image grid and right-aligned headline text\n* Responsive two-column layout using `CSS Grid` or `Flexbox` with `wrap-reverse` for mobile\n* Right column features a large headline with a color-accented phrase (“Generative AI”) in purple (`#5f3dc4`)\n\n## Key Visual Elements\n* Grid of AI-generated images arranged in a collage-style layout\n* Image cards have rounded corners (`border-radius: 1rem`) and no borders\n* Star rating indicator centered below body copy\n* Circular avatar images of students add social proof below the stars\n\n## Spacing and Positioning\n* Tight vertical rhythm: headline > paragraph > rating > avatars all stack with consistent spacing\n* Equal spacing between image cards using `gap` in `CSS Grid`\n* Center alignment for text section enhances visual hierarchy\n\n## Visual Styling\n* Purple gradient or flat tone used to highlight keywords\n* Light gray/purple background (`#f9f7fe` or similar) provides contrast to image colors\n* Font pairings use modern serif or geometric sans-serif for “magic” appeal\n\n## Implementation Guidance\n* Use `CSS Grid` with `grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))` for responsive image tiling\n* Apply `overflow: hidden` and `border-radius` on images for clean card effect\n* Avatar group: `Flexbox` row with slight overlap using `margin-left: -10px` on subsequent avatars\n* Headline styling: wrap keywords in a `<span>` with a special class for color emphasis",
+    "categories": [
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-r5vqhyvg",
+    "image": "inspiration/rgpt-r5vqHYvG.jpg",
+    "prompt": "# Purpose:\nThis section is designed to build trust and convey social proof by showcasing the program's reach and community size. It reassures potential students—especially artists and creatives—that the program is credible, globally embraced, and actively supporting a vibrant learning network. These trust-building metrics help course creators and membership site owners boost conversion by highlighting the scale and satisfaction of their audience.\n\n# Design Notes:\n\n## Statistic Highlight Section\n* Three-column layout with centered alignment, equal spacing, and consistent typography hierarchy\n* Each metric presented in large bold sans-serif font (likely 2–3x base size) for visual impact\n* Supporting descriptions in uppercase, smaller text with slightly increased letter spacing for readability and balance\n\n## Visual Styling\n* Light lavender-to-white gradient background using `linear-gradient(to top, #e7def9, #ffffff)`\n* Organic torn paper edge at bottom created using `inline SVG path` or a `mask-image` on the container for soft transition into next section\n* Text and numbers in black or very dark gray for strong contrast\n\n## Layout and Spacing\n* Section likely structured with CSS Flexbox or Grid (`display: flex; justify-content: space-around`)\n* Equal padding above and below content block to create clean white space (`padding: 4rem 2rem`)\n* Container width capped (e.g., `max-width: 960px; margin: auto`) for legibility on large screens\n\n## Implementation Guidance\n* Use responsive units (e.g., `rem`, `%`, or `vw`) to maintain proportional sizing on mobile\n* Add `text-align: center` to each stat block and apply `gap` in Flex/Grid for consistent spacing\n* Organic edge can be implemented via SVG `<path>` with transparent fill or using `clip-path: polygon(...)`\n* Consider using `intersection observer` to animate numbers counting up on scroll for engagement",
+    "categories": [
+      "Content",
+      "Stats"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-reyg0ao6",
+    "image": "inspiration/rgpt-rEyG0AO6.jpg",
+    "prompt": "# Purpose:\nThis section introduces mentors to prospective students, establishing authority and trust by showcasing experienced professionals involved in the program. For coaches, course creators, or membership site owners, featuring real mentors with notable design credentials strengthens credibility and communicates value. It helps prospective learners feel more confident about the support they’ll receive, boosting conversions and enrollment.\n\n# Design Notes:\n\n## Layout Structure\n* Horizontal grid layout displaying mentor cards in a single row\n* Each card is vertically stacked: image on top, name and title below\n* Uniform card width and consistent spacing between each profile block\n\n## Key Visual Elements\n* Square portrait images with rounded corners for modern, friendly aesthetic\n* Bold white names and lighter gray subtitles create clear visual hierarchy\n* Profile images have subtle hover overlay effect (likely darkening + slight zoom)\n\n## Spacing and Positioning\n* Even padding around each card ensures clean separation\n* Image-to-text spacing uses vertical margin or padding (~0.5–1em)\n* Overall horizontal alignment maintained with Flexbox or CSS Grid\n\n## Interactive Elements\n* Possible hover effect on images or entire cards: `transform: scale(1.03)` with `transition`\n* No active buttons present, but cards could link to bio modals or mentor pages\n\n## Visual Styling\n* Dark background (#000 or near-black) with white and muted gray typography for contrast\n* Rounded image corners (`border-radius: 1rem` or `lg`)\n* Text alignment is left-aligned and vertically stacked\n\n## Implementation Guidance\n* Use Flexbox or CSS Grid for responsive horizontal layout (`grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))`)\n* Maintain equal card width with `max-width` and `min-width` to avoid overflow\n* Apply `object-fit: cover` to image elements to ensure uniform framing\n* Use `:hover` pseudo-class with `transition: transform 0.3s ease-in-out` for subtle interactivity",
+    "categories": [
+      "Instructors"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-rlkysngp",
+    "image": "inspiration/rgpt-rLkySNgP.jpg",
+    "prompt": "# Purpose:\nThis testimonial section is designed to build trust and credibility with potential students by showcasing positive feedback from real users. It helps course creators and coaching brands demonstrate the effectiveness of their content and teaching methods, providing social proof to increase conversion rates. Highlighting reviews from diverse personas (with titles and images) also creates relatability and boosts confidence in purchase decisions.\n\n# Design Notes:\n\n## Layout Structure\n* Three-column grid layout with evenly spaced testimonial cards\n* Left-aligned header section with subheading and CTA button\n* Positioned over a soft, gradient background for visual depth\n\n## Key Visual Elements\n* Rounded testimonial cards with subtle drop shadows for elevation\n* Each card includes:\n  - 5-star rating (likely FontAwesome stars)\n  - Quoted review in italicized font\n  - LinkedIn icon (top-right) for credibility\n  - Reviewer photo, name, and title at the bottom\n\n## Spacing and Positioning\n* Ample padding inside each card to avoid crowding\n* Consistent vertical spacing between card elements\n* Cards have slight horizontal tilt/rotation for a dynamic, engaging feel\n\n## Interactive Elements\n* CTA button \"Start Learning Now\" styled with high-contrast black pill-shaped button\n* LinkedIn icons may link to public profiles (external anchors)\n* Card hover effects could include slight elevation (`transform: translateY(-2px)`)\n\n## Visual Styling\n* Background uses a soft radial gradient (pastel purple/blue) with a smooth fade\n* Testimonial cards use light gray/white backgrounds with large `border-radius` (~`1.25rem`)\n* Text is black for high contrast with some use of italic and bold for emphasis\n\n## Implementation Guidance\n* Use `CSS Grid` for responsive 3-column layout\n* Apply `box-shadow` and `border-radius` to cards for modern elevation\n* Use `transform: rotate()` for subtle card tilt effect, or animation variants via Framer Motion\n* Radial background gradient can be achieved via `background: radial-gradient(...)` or pseudo-elements\n* FontAwesome stars and LinkedIn logos implemented via icon fonts or inline SVG",
+    "categories": [
+      "Testimonials"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-rvdomjb3",
+    "image": "inspiration/rgpt-rvDoMjb3.jpg",
+    "prompt": "# Purpose:\nThis section serves as a compelling hero banner aimed at prospective students interested in building IT skills. It emphasizes career transformation and skills development, crucial for course creators and coaching brands looking to attract tech-minded learners. The layout uses strong visual storytelling and social proof to instill trust, drive engagement, and encourage sign-ups or purchases through a prominent CTA.\n\n# Design Notes:\n\n## Hero Section\n* Two-column layout: left side for headline and CTA, right side for lifestyle image and device mockup\n* Image on the right shows an enthusiastic learner and a mobile course preview to illustrate course accessibility and user satisfaction\n\n## Key Visual Elements\n* Bold, dual-color headline with purple and black typography — uses font weight and hue to differentiate\n* Subheadline supports value proposition with short, career-focused copy\n* Photo of a student (celebrating success) alongside a phone mockup (3D Modeling course) to suggest real outcomes and mobile-friendly access\n\n## Spacing and Positioning\n* Clear vertical rhythm with generous white space for scannability\n* Image and phone are slightly rotated and layered for visual dynamism\n* CTA and student count section are left-aligned under the headline, maintaining a visual hierarchy\n\n## Interactive Elements\n* Primary CTA: “Buy Template” styled as a pill-shaped black button with white text — high contrast for visibility\n* Star rating and student avatars imply clickable social proof (could animate on hover)\n\n## Visual Styling\n* Background uses a light-to-white radial gradient with purple/blue hues — subtle and modern\n* Text uses sans-serif font with bold and semi-bold variants\n* Images have rounded corners and shadow effects for depth (especially the mobile device)\n\n## Implementation Guidance\n* Use `Flexbox` or `CSS Grid` for two-column layout with responsive stacking on smaller screens\n* Radial gradient background via `background: radial-gradient(...)` on the section container\n* Image tilt with `transform: rotate()` and `box-shadow` for floating effect\n* Phone mockup can be an `inline SVG` or layered image with `position: absolute` for overlay\n* Star icons and avatars use FontAwesome or similar icon sets with `flex` layout for alignment",
+    "categories": [
+      "Call To Action",
+      "Hero Banner"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-ssrmg9lg",
+    "image": "inspiration/rgpt-ssrMg9lG.jpg",
+    "prompt": "# Purpose:\nThis call-to-action (CTA) section is designed to immediately engage prospective students and encourage course exploration. By emphasizing personal empowerment (\"Unlock Your Learning Potential Today\") and including friendly, diverse student imagery, it fosters a sense of belonging and possibility. For course creators and membership site owners, this type of section helps increase conversion by clearly guiding users to the next action while reinforcing brand tone—optimistic, supportive, and career-focused.\n\n# Design Notes:\n\n## CTA Section\n* Two-line headline with bold sans-serif font; first line in black, second line in italicized orange-red for emphasis\n* Subheadline in smaller gray text for additional context, centered beneath main headline\n* CTA button uses a high-contrast orange background with rounded pill shape and white text\n* Arrow icon inside button adds directional cue—implemented via FontAwesome or inline SVG\n\n## Layout Structure\n* Single-column center-aligned content block with generous vertical padding\n* Two angled student images placed in opposite corners (top-right and bottom-left) to create balance and energy\n* Each photo has a stylized cutout or geometric mask—achievable using `clip-path` or `SVG masking`\n\n## Visual Styling\n* Background is clean white with faint grid lines or watermark in upper center—adds visual texture without distraction\n* Button hover effect likely includes background darkening or scale transform (`transform: scale(1.05)`)\n* Imagery adds approachability while maintaining focus on the message—diversity in appearance suggests inclusivity\n\n## Implementation Guidance\n* Use `Flexbox` or `CSS Grid` for responsive centering and consistent spacing\n* Clip images with `clip-path: polygon(...)` or use custom-shaped `SVG` wrappers for dynamic corner presentation\n* Use utility-first CSS (like Tailwind) or custom classes for font-weight, italics, and spacing utilities\n* Consider adding subtle CSS animation on button hover (e.g., arrow sliding right on `:hover`)",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-svxiuqmx",
+    "image": "inspiration/rgpt-svXIUqMX.jpg",
+    "prompt": "# Purpose:\nThis pricing section is designed to clearly communicate the value and structure of a tiered subscription model, making it easy for course buyers to compare options and commit. By visually distinguishing the most popular plan and emphasizing trust signals (ratings and reviews), the section builds credibility and nudges users toward conversion. For course creators or membership site owners, this layout effectively supports revenue growth by showcasing upsell opportunities in a transparent, user-friendly way.\n\n# Design Notes:\n\n## Pricing Layout\n* Three-column layout using `CSS Grid` or `Flexbox` for equal width cards with consistent spacing\n* Center card (Pro Plan) is visually emphasized as \"Popular Plan\" with a floating label—achievable via absolute positioning and a rotated badge\n* Plan cards are vertically aligned with a soft gradient or off-white background and subtle box shadow for depth\n\n## Typography & Visual Hierarchy\n* Plan names in small bold text, pricing in large bold numbers (`font-size: ~2rem`), and sub-labels (\"/mo\", \"Billed annually\") in lighter gray for contrast\n* Feature lists use checkmarks and crossed items to show inclusions/exclusions—can use FontAwesome icons or custom SVGs with conditional styling\n* Most popular plan button uses solid black fill; others use bordered buttons with hover states\n\n## Visual Styling\n* Background gradient has soft pastel tones with radial blur (likely implemented via `background: radial-gradient(...)`)\n* Rounded corners (`border-radius: 2xl`) and soft drop shadows (`box-shadow: rgba(...)`) for a modern card feel\n* Hover state for cards may include slight scale-up (`transform: scale(1.02)`) and shadow enhancement\n\n## Conversion & Trust Elements\n* Trust metric (\"Trusted by 70k+ students\") displayed with 5-star icons and review count—use `Flexbox` for inline alignment\n* 4.8 rating and review count positioned top-right for social proof reinforcement\n* \"Get Started\" CTA button inside each card supports quick decision-making and anchors to purchase flow\n\n## Implementation Guidance\n* Use `CSS Grid` with `grid-template-columns: repeat(3, 1fr)` for responsive layout\n* Use `position: absolute` for the \"Popular Plan\" badge with `transform: rotate(-10deg)` for visual flair\n* Use conditional classes to style available vs unavailable features (`text-gray-400` or `opacity-50` for disabled lines)\n* Animate button hover states with `transition: all 0.2s ease-in-out`",
     "categories": [
       "Pricing"
     ],
