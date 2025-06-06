@@ -379,6 +379,15 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-8jr50u0g",
+    "image": "inspiration/rgpt-8JR50U0G.jpg",
+    "prompt": "Design Notes:\n* A container with a light color background and rounded corners shows content describing a single bonus included in a course. The section has a white background.\n* Preheading in all caps uses a highlight color\n* A checklist contains a FontAwesome icon in the same highlight color\n* Some text below the checklist is intended to mention how much the bonus is valued.\n* An image on the right of the text is intended to be a mockup of the bonus or an image of the bonus",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
     "id": "inspiration-rgpt-8jlxlxmz",
     "image": "inspiration/rgpt-8JlxlXmZ.jpg",
     "prompt": "Design Notes:\n* Centered heading above a grid of icon cards\n* Section has a soft blurry gradient background that adds some depth to the page.\n\n# Heading\n* Preheading has a FontAwesome icon inside a colored circle. the Preheading text is also in a pill shape with a thin border.\n\n# Icon Cards\n* Each card has rounded corners\n* The icon is a FontAwesome icon and inside a rounded quare shape with a light color backround\n* Heading and subheading\n* All cards shoudl line up no matter how long the text is.",
@@ -469,6 +478,15 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-ctnh5lmv",
+    "image": "inspiration/rgpt-CtnH5lmV.jpg",
+    "prompt": "Design Notes:\n* Logo image acts as a preheading\n* Two pricing cards for two payment plans\n* Transparent PNG is placed over the right corner of the featured pricing plan. Suggest that they create one in Canva.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
     "id": "inspiration-rgpt-dql9t7ey",
     "image": "inspiration/rgpt-Dql9T7ey.jpg",
     "prompt": "Design notes:\n* The section heading contains text that has some words are that are a different color and also italics\n* There is a call to action button that appears in the same row as the subheading, but on the right hand side of the screen\n* The testimonial cards are a different color they have rounded corners. It also includes rating icons as well as a quote, and also the persons name and avatar image that is shown in the lower right hand corner of the card.",
@@ -529,6 +547,34 @@
     "prompt": "This section is intended to list upcoming events or webinars.\n\nDesign notes\n* Each event card has rounded corners and some padding\n* The image inside of the event card also has some rounded corners as well\n* The event name and description are shown and below that is the event date and location. Be sure to use font awesome icons for the date and locat",
     "categories": [
       "Events"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-gvuwzmax",
+    "image": "inspiration/rgpt-GvuWZMAX.jpg",
+    "prompt": "Design notes:\n* This section is intended to be placed on a home page to help guide people to coure category pages\n* Dark section background with a blurred CSS gradient blob\n* Each category is a pill shape with a semi transparent background and is clickable. When hovered over, the pill becomes solid.",
+    "categories": [
+      "Call To Action"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-hnytfegj",
+    "image": "inspiration/rgpt-HNytFegJ.jpg",
+    "prompt": "Design notes:\n* This section is intended to be used for any type of content.\n* The image should have rounded corners. A CSS multi-colored gradient should be applied on top of the image automatically.\n* The preheading for the section is using a highlight color\n* The heading is intended to be one or two lines followed by a single paragraph",
+    "categories": [
+      "Content"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-hd5tvdp2",
+    "image": "inspiration/rgpt-Hd5tvdp2.jpg",
+    "prompt": "Design notes:\n* This section is intended to showcase a course instructor, but can also be used for general content.\n* Image is slightly tilted via CSS and has rounded corners. Make sure the image at least is as tall as the content (desktop). The image is intended to have a \"tall\" aspect ratio, so if a \"wide\" image is provided, it should automatically be cropped so that it fills the space.\n* The section heading has words that are highlighted in a highlight color\n* A few paragraphs are intended to go below the heading but nothing too long.\n* Stats are shown below the section paragraphs with large numbers and small subheading",
+    "categories": [
+      "Content",
+      "Instructors"
     ],
     "video": ""
   },
@@ -606,11 +652,39 @@
     "video": ""
   },
   {
+    "id": "inspiration-rgpt-eweoegyl",
+    "image": "inspiration/rgpt-eweOEgYL.jpg",
+    "prompt": "Design notes:\n* This section is intended to be placed before the main pricing section to \"sum it up\" and show how much value the person is getting with everything included.\n* Key items and bonuses should be listed and the key is to associated a value for each item\n* At the bottom of the section it should show the \"total valuye\" and actial investment in a way that makes it feel like a steal.",
+    "categories": [
+      "Pricing"
+    ],
+    "video": ""
+  },
+  {
     "id": "inspiration-rgpt-fh41w9sg",
     "image": "inspiration/rgpt-fh41w9SG.jpg",
     "prompt": "This section is intended to highlight the instructor for a course and provide some credibility boosters and social proof\n\nDesign notes:\n* The container for this section is a different background color than the section background color color. The container also has slightly rounded corners.\n* The instructor image height should be stretched to make sure it matches the height of the content\n* The instructor information on the right of the image contains a heading a few paragraphs and then a list of statistics each statistic has a colored icon and some short text\n* Below the list of statistics is a scrolling logo bar",
     "categories": [
       "Instructors"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-htavsfsp",
+    "image": "inspiration/rgpt-hTAvsFSp.jpg",
+    "prompt": "Design notes:\n* This section is intended to list instructors that are part of an online membership, but can also be used for other reason.\n* Heading section has highlighted words\n* Each instructor card has rounded corners and may optionally be clickable (be sure to ask me)",
+    "categories": [
+      "Instructors"
+    ],
+    "video": ""
+  },
+  {
+    "id": "inspiration-rgpt-hqanne1r",
+    "image": "inspiration/rgpt-hqANne1R.jpg",
+    "prompt": "Design notes:\n* This section is intended to be used to list bonuses that are included in a course. The image is showing only one bonus card, but it is usually followed by a 3-4. Please ask me how many bonuses I am including.\n\n# Bonus Content Cards\n* Has a light colored background with rounded corners\n* Heading text describes the bonus\n* Subheading text in all caps and using a highlight color is intended to mention \"EXCLUSIVE BONUS TRAINING\"\n* The paragraph of text is intended to describe the bomous\n* At the bottom of the card there is text that is intended to describe how much the bonus is valued. ** Important ** please place a $value of the bonus along with text `Value` and have it slashed followed by \"Included with...\". This portion of the card should stand out.",
+    "categories": [
+      "Pricing",
+      "Content"
     ],
     "video": ""
   },
