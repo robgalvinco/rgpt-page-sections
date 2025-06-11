@@ -1,7 +1,7 @@
 ---
 image: rgpt-W3lKFwb9.jpg
 categories:
-  - testimonials
+  - Testimonials
 video:
 ---
 # Purpose:

@@ -1,7 +1,7 @@
 ---
 image: rgpt-Tn4L7GyK.jpg
 categories:
-  - Instructor
+  - Instructors
 video:
 ---
 # Purpose:

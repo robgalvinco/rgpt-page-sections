@@ -1,7 +1,7 @@
 ---
 image: rgpt-xErkYTOr.jpg
 categories:
-  - Icon cards
+  - Icon Cards
   - Content
   - Features
 video:

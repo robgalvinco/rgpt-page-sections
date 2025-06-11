@@ -1,7 +1,7 @@
 ---
 image: rgpt-SrpgVKuv.jpg
 categories:
-  - Instructor
+  - Instructors
 video:
 ---
 # Purpose:

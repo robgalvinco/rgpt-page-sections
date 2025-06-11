@@ -2,7 +2,7 @@
 image: rgpt-oHaNbjop.jpg
 categories:
   - Content
-  - Testimonial
+  - Testimonials
 video:
 ---
 # Purpose:

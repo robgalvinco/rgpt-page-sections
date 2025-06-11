@@ -2,7 +2,7 @@
 image: rgpt-tvAyQwC5.jpg
 categories:
   - Content
-  - Instructor
+  - Instructors
 video:
 ---
 # Purpose:

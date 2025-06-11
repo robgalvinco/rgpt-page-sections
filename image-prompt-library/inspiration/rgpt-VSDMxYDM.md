@@ -3,7 +3,7 @@ image: rgpt-VSDMxYDM.jpg
 categories:
   - Features
   - Content
-  - Icon cards
+  - Icon Cards
 video:
 ---
 # Purpose:
