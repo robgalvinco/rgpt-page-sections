@@ -2,7 +2,7 @@
 image: rgpt-xUjCyIuf.jpg
 categories:
   - Content
-  - Icon cards
+  - Icon Cards
   - Features
 video:
 ---
